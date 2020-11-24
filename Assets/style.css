@@ -1,0 +1,90 @@
+.databody{
+    color: black;
+}
+
+ul{
+    position: relative;
+    top: 0;
+}
+
+li{
+    position: relative;
+    top: 5;
+}
+
+#navlink{
+    color: lime
+}
+
+table{
+    text-align: center;
+}
+
+.title{
+    text-align: center;
+    color: black;
+}
+
+footer{
+    text-align: center;
+    color: white
+}
+
+#compare{
+    text-align: center;
+}
+
+
+p{
+    color: darkslategray;
+}
+
+.dropdown{
+    position: relative;
+    left: 10%;
+    z-index: 1;
+}
+h2{
+    color: #800000
+}
+
+h3{
+    color: black;
+}
+
+#visuals p{
+    color:#20c997;
+    text-align:center;
+}
+
+.VZ{
+    text-align: center;
+}
+
+figcaption{
+    position: relative;
+    left: 22%;
+    font-size: 0.6em;
+}
+
+#nav-text{
+    position: right;
+}
+
+#flip{
+    color:#145385;
+}
+
+body{
+    background-color: #800000
+}
+
+.dropdown {
+    position: relative;
+    left: 0.5%;
+    z-index: 1;
+
+.graph-svg-component {
+    background-color: AliceBlue;
+}
+
