@@ -65,13 +65,7 @@
           <div class="col-md-12">
               <div class="expand">
               <br>
-              <script> 
-              $(document).ready(function(){
-              $("#flip").click(function(){
-              $("#panel").slideToggle("slow");
-                });
-              });
-              </script>
+    
               <style> 
               #panel, #flip {
                 padding: 5px;
@@ -89,13 +83,7 @@
               <div class="col-md-12">
               <div class="expand">
               <br>
-              <script> 
-              $(document).ready(function(){
-              $("#flip").click(function(){
-              $("#panel").slideToggle("slow");
-                });
-              });
-              </script>
+        
               <style> 
               #panel, #flip {
                 padding: 5px;
@@ -109,11 +97,21 @@
               }
               </style>
               </div>
-              <div id="flip" style="background-color:#edf2f4"><h1 style="color: #800000;">Machine Learning </h1><br>Click here for more information>
-              <div id="panel"> <p style='color:lime'>text text</p> 
-              </div>
+              <div id="flip" style="background-color:#edf2f4"><h1 style="color: #800000;">Machine Learning <br> Will my game be a hit? </h1><br>Using our data and looking at genres and tags we are able to create a basic filter function that can recommend games based on what you make like. Make your selections below and let the fun begin! <br> To create this machine learning model we...
 
-    
+
+    <form action="/action_page.php">
+  <label for="fname">Game Genre</label><br>
+  <input type="text" id="fname" name="fname" onfocus="this.value=''" value="i.e. Action, Indie"><br>
+  <label for="lname">Metascore</label><br>
+  <input type="text" id="lname" name="lname" onfocus="this.value=''" value="i.e. 96, 20"><br>
+  <label for="lname">Developer</label><br>
+  <input type="text" id="lname" name="lname" onfocus="this.value=''" value="i.e. Valve, Rockstar "><br><br>
+  <input type="submit" value= "Submit">
+<div id="results"></div>
+</form> 
+
+<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
         
 </div>
 </div>
@@ -125,7 +123,7 @@
 <!-- Footer -->
 <footer>
     <br>
-    <div class="footer">Copyright 2020 &copy; DU Bootcamp Project 2 Group (Madison, Sarah, Kevin, Andrew, Robin) </div>
+    <div class="footer">Copyright 2020 &copy; DU Bootcamp Project 2 Group (Madison, Sarah, Kevin, Andrew, Solongo, Robin) </div>
 </footer>
 
 </html>
