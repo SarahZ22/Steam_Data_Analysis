@@ -4,7 +4,7 @@
 
 Analysts: Sarah Zachrich, Madison Chamberlain, Kevin Schram, Robin Bun, Andrew Marino, Solongo Tserenkhand
 
-Project Site: https://sarahz22.github.io/Final_Project_Steam_Analysis/
+Project Site: https://sarahz22.github.io/Final_Project_Steam_Analysis/ \
 Tableau Site: https://public.tableau.com/profile/robin.bun#!/vizhome/final_project_16058429925040/Sheet1
 
 ### Project Overview:
@@ -18,6 +18,6 @@ We also wanted to utilize Tableau to different game ownership trends.
 Game hit was defined as when a game had a game ownership over the median of game ownership.
 
 ##### Data Sources:
--https://gamedb.online/ 
--https://steamspy.com/ 
+-https://gamedb.online/ \
+-https://steamspy.com/ \
 -https://steamdb.info/
