@@ -83,8 +83,8 @@ body{
     position: relative;
     left: 0.5%;
     z-index: 1;
+}
 
 .graph-svg-component {
     background-color: AliceBlue;
 }
-
