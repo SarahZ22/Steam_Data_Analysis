@@ -4,6 +4,8 @@
 
 Analysts: Sarah Zachrich, Madison Chamberlain, Kevin Schram, Robin Bun, Andrew Marino, Sologno Tserenkhand
 
+Project Site: https://sarahz22.github.io/Final_Project_Steam_Analysis/
+
 ### Project Overview:
 This project is a continuation of our previous project (https://github.com/SarahZ22/Project_2_Data_Visualization) ...
 
