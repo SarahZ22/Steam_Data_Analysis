@@ -14,7 +14,7 @@ This project focuses on analyzing data from Steam, a cloud-based gaming library 
 For this project our team wanted to utilize Machine Learning to predict whether games will be a hit or not based off the game's metacore and price. 
 We also wanted to utilize Tableau to different game ownership trends.
 
-Game hit was defined as when a game had a game ownership over 
+Game hit was defined as when a game had a game ownership over the median of game ownership.
 
 ##### Data Sources:
 -https://gamedb.online/ 
