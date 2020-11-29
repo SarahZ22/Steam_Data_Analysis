@@ -30,12 +30,12 @@ The cleaned data was used to create the machine learning model to predict whethe
 
 The machine learning, tableau visualizations and visualizations were displayed on a webpage where JQuery was utilized.
 
-From our findings, game developers could use our machine learning to help with the following: \
-1. Predict on how popular a game will be \
-2. Determine what type of games are the most successful \
+From our findings, game developers could use our machine learning to help with the following: 
+1. Predict on how popular a game will be 
+2. Determine what type of games are the most successful 
 3. Gamers can filter through our results to find games similar to ones they already enjoy 
 
-The following questions still arise from this as something to think about: \
-1. How does the platform a game is released on determine its’ popularity? \
-2. Does the size of the developing company impact the success of the game such as large developers vs. indie developers? \
+The following questions still arise from this as something to think about: 
+1. How does the platform a game is released on determine its’ popularity? 
+2. Does the size of the developing company impact the success of the game such as large developers vs. indie developers? 
 3. How does user inputs such as reviews impact game ownership and popularity?
