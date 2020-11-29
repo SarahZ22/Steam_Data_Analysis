@@ -19,6 +19,43 @@
     <script src="https://d3js.org/d3.v4.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
 
+<style>
+  .slidecontainer {
+    width: 100%;
+  }
+  
+  .slider {
+    -webkit-appearance: none;
+    width: 80%;
+    height: 25px;
+    background: #145385;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+  }
+  
+  .slider:hover {
+    opacity: 1;
+  }
+  
+  .slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 25px;
+    height: 25px;
+    background: #800000;
+    cursor: pointer;
+  }
+  
+  .slider::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+    background: #000000;
+    cursor: pointer;
+  }
+  </style>
+
 <!-- Page Title -->
     <title>Learning</title>
 
@@ -34,7 +71,7 @@
                 Game Recommendations</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" id="navlink" href="templates/machine_learning.html">
+                <a class="nav-link" id="navlink" href="machine_learning.html">
                     <i class="fas fa-laptop-code" style='color:lime'></i>
                 Machine Learning Model</a>
             </li>
@@ -48,11 +85,6 @@
                 <i class="fas fa-user-alt" style='color:lime'></i>
             Steam User Base</a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" id="navlink" href="data.html">
-                    <i class="fas fa-database" style='color:lime'></i>
-                Data ?</a>
-            </li>
         </ul>
     </div>
     <a class="nav-text">Steam Data Analysis Web Visualization Dashboard <i class="fab fa-steam-symbol"></i></a>
@@ -64,37 +96,17 @@
           <div class="col-md-12">
               <div class="expand">
               <br>
-    
               <style> 
-              
-              #panel, #flip {
-                padding: 5px;
-                text-align: center;
-                background-color: #b3541d;
-                cursor: pointer;
-                border: solid 1px #d3d3d3;
-              }
-              #panel {
-                padding: 50px;
-                display: none;
-              }
-
-        
-            
               #panel, #flip {
                 padding: 5px;
                 text-align: center;
                 background-color: #b3541d;
                 border: solid 1px #c3c3c3;
               }
-              #panel {
-                padding: 50px;
-                display: none;
-              }
-
               </style>
               </div>
-              <div id="flip" style="background-color:#edf2f4"><h1 style="color: #800000;">Machine Learning <br> Will my game be a hit? </h1><br>Using our data and looking at genres and tags we are able to create a basic filter function that can recommend games based on what you make like. Make your selections below and let the fun begin! <br> To create this machine learning model we...
+
+              <div id="flip" style="background-color:#edf2f4"><h1 style="color: #800000;">Machine Learning <br> Will my game be a hit? </h1><br>We have created an app using machine learning which can tell if a game will be a hit (successful) or not based on price and metascore. <br><br>This app is deployed on Heroku - <a style="color: #800000;" href="https://videogamebootcampapp.herokuapp.com/ ">Link Here</a> <br><br> The below is an example of what our site would look like if deployed in a real world site application. <br><br> To create this machine learning model we used logistic regression and scaled our data.<br> We created a testing and training set using hit or not as our pediciton value.<br> We found the most influential features were price and metascore so that is what we chose to use for our model. <br>These features also apply to all games and have a good correlation so are the best to use.
 
                 <div class="container-fluid">
                   <div class="row">
@@ -117,6 +129,7 @@
    
    <input type="range" min="1" max="100" value="1" class="slider" id="metascoreRange"> 
    <p>Metascore: <span id="metascoreValue"></span></p>
+   <p>Once selections are made, our deployed app will output whether the game is a hit (successful) or not.</p>
  </div>
 <!-- Slider input ends-->
 
@@ -129,19 +142,19 @@
        // this is temporary while api is queried
        document.getElementById("isHit").innerHTML = "checking...";
 
-       fetch("/predict/" +  price + "/" + metascore)
-         .then(response => response.json())
-         .then(result => {
-           console.log(result);
-           is_hit = result.is_hit;
-           if (is_hit == 1) {
-             document.getElementById("isHit").innerHTML = "Yes"
-           } else {
-             document.getElementById("isHit").innerHTML = "No"
-           }
+      //  fetch("/predict/" +  price + "/" + metascore)
+      //    .then(response => response.json())
+      //    .then(result => {
+      //      console.log(result);
+      //      is_hit = result.is_hit;
+      //      if (is_hit == 1) {
+      //        document.getElementById("isHit").innerHTML = "Yes"
+      //      } else {
+      //        document.getElementById("isHit").innerHTML = "No"
+      //      }
            
-           console.log(result.is_hit);
-         });
+      //      console.log(result.is_hit);
+      //    });
 
      }
 
@@ -174,7 +187,7 @@
 <!-- Footer -->
 <footer>
     <br>
-    <div class="footer">Copyright 2020 &copy; DU Bootcamp Project 2 Group (Madison, Sarah, Kevin, Andrew, Solongo, Robin) </div>
+    <div class="footer" style='color:lime'>Copyright 2020 &copy; DU Bootcamp Project 2 Group (Madison, Sarah, Kevin, Andrew, Solongo, Robin) </div>
 </footer>
 
 </html>
