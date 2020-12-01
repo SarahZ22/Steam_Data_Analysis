@@ -60,13 +60,7 @@
           <div class="col-md-12">
               <div class="expand">
               <br>
-              <script> 
-              $(document).ready(function(){
-              $("#flip").click(function(){
-              $("#panel").slideToggle("slow");
-                });
-              });
-              </script>
+
               <style> 
               #panel, #flip {
                 padding: 5px;
@@ -74,41 +68,46 @@
                 background-color: #145385;
                 border: solid 1px #c3c3c3;
               }
-              #panel {
-                padding: 50px;
-                display: none;
-              }
 
-              <div class="container-fluid">
-              <div class="row">
-              <div class="col-md-12">
-              <div class="expand">
-              <br>
-              <script> 
-              $(document).ready(function(){
-              $("#flip").click(function(){
-              $("#panel").slideToggle("slow");
-                });
-              });
-              </script>
-              <style> 
-              #panel, #flip {
-                padding: 5px;
-                text-align: center;
-                background-color: #edf2f4;
-                border: solid 1px #c3c3c3;
-              }
-              #panel {
-                padding: 50px;
-                display: none;
-              }
+      
               </style>
               </div>
-              <div id="flip" style="background-color:#edf2f4"><h1 style="color: #800000;">What Should I Play Next? </h1><br>Click here for more information>
-              <div id="panel"> <p style='color:lime'>Using our data and looking at genres and tags we are able to create a basic filter function that can recommend games based on what you make like. Make your selections below and let the fun begin!</p> 
+
+              <div id="flip" style="background-color:#edf2f4"><h1 style="color: #800000;">What Should I Play Next? </h1><br>
+              <div id="panel"> <p style='color:lime'>Using our data and looking at genres, publishers and owners we are able to create a basic filter function that can recommend games based on what you make like. Make your selections below and let the fun begin!<br><br>Github pages does not allow for apps so the working active page is deployed on Heroku - <a style="color: #800000;" href="" target="_blank">Link Here</a> <br> The below is an example of what our site would look like if deployed in a real world site application. 
               </div>
 
-    
+              <div id=body>
+                <div class="jumbotron" style="background-color:#edf2f4;">
+                  <h1 class="display-4 text-center" style='color:#145385;'><strong>FIND YOUR (GAME) MATCH!</strong></h1>
+                  <blockquote>
+                    <h2 class="lead text-center" style="color: #800000;">Pick a selection from each control below and click search.</h2>
+                  </blockquote>
+                  <hr class="my-4">
+                  <p></p>
+                  <p class="lead">
+                  <form action="/passdata" method="POST">
+                    <div class="form-group">
+                      <select class="custom-select custom-select-lg mb-3" id="genre" name="genre">
+                        <option selected>Pick Genre of Game</option>
+                        <option value="1">Action</option>
+                        <option value="2">RPG</option>
+                        <option value="3">Indie</option>
+                      </select>
+                      <select class="custom-select custom-select-lg mb-3" id="tag" name="tag">
+                        <option selected>Pick Tag of Game</option>
+                        <option value="1">Action</option>
+                        <option value="2">RPG</option>
+                        <option value="3">Indie</option>
+                      </select>
+                        <p class="text-uppercase" style="color: #800000;">input GAME score range</p>
+                      <input name="low" id="low" type="number" value="50"/>
+                      <input name="high" id="high" type="number" value="100"/>
+                    </div>
+                    <button type="submit" class="btn btn-primary" style="background-color: #800000;">SEARCH</button>
+                  </form>
+                </div>
+              </div>
         
 </div>
 </div>
