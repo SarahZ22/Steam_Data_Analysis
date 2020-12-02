@@ -1,0 +1,988 @@
+﻿record_id,App Id,Name,Developers,Publishers,Metascores,Owners,Genres
+153,220,Half-Life 2,Valve,Valve,0.96,10000000000,['Action']
+333,271590,Grand Theft Auto V,Rockstar North,Rockstar Games,0.96,20000000,"['Action', 'Adventure']"
+869,70,Half-Life,Valve,Valve,0.96,5000000,['Action']
+904,7670,BioShock,2K Boston,2K,0.96,2000000,"['Action', 'RPG']"
+812,620,Portal 2,Valve,Valve,0.95,10000000000,"['Action', 'Adventure']"
+50,12110,Grand Theft Auto: Vice City,Rockstar Games,Rockstar Games,0.94,2000000,['Action']
+170,22330,The Elder Scrolls IV: Oblivion Game of the Year Edition,Bethesda Game Studios,Bethesda Softworks,0.94,1000000,['RPG']
+279,24980,Mass Effect 2,BioWare,Electronic Arts,0.94,1000000,['RPG']
+518,373420,Divinity: Original Sin - Enhanced Edition,Larian Studios,Larian Studios,0.94,1000000,"['Adventure', 'Indie', 'RPG', 'Strategy']"
+881,72850,The Elder Scrolls V: Skyrim,Bethesda Game Studios,Bethesda Softworks,0.94,5000000,['RPG']
+954,8870,BioShock Infinite,Irrational Games,2K,0.94,2000000,['Action']
+46,1174180,Red Dead Redemption 2,Rockstar Games,Rockstar Games,0.93,2000000,"['Action', 'Adventure']"
+49,12100,Grand Theft Auto III,Rockstar Games,Rockstar Games,0.93,2000000,['Action']
+51,12120,Grand Theft Auto: San Andreas,Rockstar Games,Rockstar Games,0.93,2000000,['Action']
+192,228200,Company of Heroes,Relic Entertainment,SEGA,0.93,2000000,"['Action', 'Strategy']"
+376,292030,The Witcher 3: Wild Hunt,CD PROJEKT RED,CD PROJEKT RED,0.93,10000000000,['RPG']
+634,435150,Divinity: Original Sin 2 - Definitive Edition,Larian Studios,Larian Studios,0.93,2000000,"['Adventure', 'RPG', 'Strategy', 'in Early Access']"
+747,546560,Half-Life: Alyx,Valve,Valve,0.93,1000000,"['Action', 'Adventure']"
+813,620980,Beat Saber,Beat Games,Beat Games,0.93,2000000,"['Indie', 'in Early Access']"
+560,391540,Undertale,tobyfox,tobyfox,0.92,2000000,"['Indie', 'RPG']"
+641,440,Team Fortress 2,Valve,Valve,0.92,"100,000,000","['Action', 'Free to Play']"
+682,4760,Rome: Total War - Collection,CREATIVE ASSEMBLY,SEGA,0.92,1000000,['Strategy']
+913,7940,Call of Duty 4: Modern Warfare,Infinity Ward,Activision,0.92,1000000,['Action']
+43,1158310,Crusader Kings III,Paradox Development Studio,Paradox Interactive,0.91,500000,"['RPG', 'Simulation', 'Strategy']"
+71,17300,Crysis,Crytek,Electronic Arts,0.91,1000000,['Action']
+74,17450,Dragon Age: Origins,BioWare,Electronic Arts,0.91,500000,['RPG']
+81,200260,Batman: Arkham City - Game of the Year Edition,Rocksteady Studios,Warner Bros. Interactive Entertainment,0.91,2000000,"['Action', 'Adventure']"
+101,205100,Dishonored,Arkane Studios,Bethesda Softworks,0.91,2000000,"['Action', 'Adventure']"
+139,214560,Mark of the Ninja,Klei Entertainment,Microsoft Studios,0.91,1000000,"['Action', 'Adventure', 'Indie']"
+167,22300,Fallout 3,Bethesda Game Studios,Bethesda Softworks,0.91,500000,['RPG']
+172,22370,Fallout 3: Game of the Year Edition,Bethesda Game Studios,Bethesda Softworks,0.91,2000000,['RPG']
+180,224760,FEZ,Polytron Corporation,Trapdoor,0.91,1000000,['Indie']
+221,236430,DARK SOULS II,"FromSoftware, Inc",BANDAI NAMCO Entertainment,0.91,1000000,"['Action', 'RPG']"
+228,238010,Deus Ex: Human Revolution - Director's Cut,Eidos Montreal,Square Enix,0.91,1000000,"['Action', 'RPG']"
+363,287700,METAL GEAR SOLID V: THE PHANTOM PAIN,Konami Digital Entertainment,Konami Digital Entertainment,0.91,1000000,"['Action', 'Adventure']"
+477,35140,Batman: Arkham Asylum Game of the Year Edition,Rocksteady Studios,Warner Bros. Interactive Entertainment,0.91,2000000,"['Action', 'Adventure']"
+686,47810,Dragon Age: Origins - Ultimate Edition,BioWare,Electronic Arts,0.91,1000000,['RPG']
+824,632470,Disco Elysium,ZA/UM,ZA/UM,0.91,500000,['RPG']
+8,10500,Total War: EMPIRE  Definitive Edition,CREATIVE ASSEMBLY,SEGA,0.9,2000000,['Strategy']
+55,12210,Grand Theft Auto IV: The Complete Edition,Rockstar North,Rockstar Games,0.9,2000000,"['Action', 'Adventure']"
+182,225080,Brothers - A Tale of Two Sons,Starbreeze Studios AB,505 Games,0.9,1000000,"['Action', 'Adventure', 'Indie']"
+238,239350,Spelunky,Mossmouth,Mossmouth,0.9,1000000,['Indie']
+322,26800,Braid,Number None,Number None,0.9,1000000,"['Casual', 'Indie', 'Strategy']"
+577,400,Portal,Valve,Valve,0.9,5000000,['Action']
+608,420,Half-Life 2: Episode Two,Valve,Valve,0.9,5000000,['Action']
+665,460790,Bayonetta,PlatinumGames,SEGA,0.9,500000,"['Action', 'Adventure']"
+772,570,Dota 2,Valve,Valve,0.9,100000000,"['Action', 'Free to Play', 'Strategy']"
+790,590380,Into the Breach,Subset Games,Subset Games,0.9,500000,"['Indie', 'RPG', 'Simulation', 'Strategy']"
+866,6910,Deus Ex: Game of the Year Edition,Ion Storm,Square Enix,0.9,1000000,['Action']
+955,8930,Sid Meier's Civilization V,Firaxis Games,2K,0.9,5000000,['Strategy']
+75,17460,Mass Effect,BioWare,Electronic Arts,0.89,1000000,"['Action', 'RPG']"
+82,200510,XCOM: Enemy Unknown,Firaxis Games,2K,0.89,2000000,['Strategy']
+169,22320,The Elder Scrolls III: Morrowind Game of the Year Edition,Bethesda Game Studios,Bethesda Softworks,0.89,1000000,['RPG']
+251,242680,Nuclear Throne,Vlambeer,Vlambeer,0.89,500000,"['Action', 'Indie', 'RPG', 'in Early Access']"
+362,287450,Rise of Nations: Extended Edition,SkyBox Labs,Xbox Game Studios,0.89,1000000,"['Simulation', 'Strategy']"
+374,291650,Pillars of Eternity,Obsidian Entertainment,Paradox Interactive,0.89,1000000,['RPG']
+408,310950,Street Fighter V,Capcom,Capcom,0.89,1000000,['Action']
+520,374320,DARK SOULS III,"FromSoftware, Inc.","FromSoftware, Inc.",0.89,2000000,['Action']
+539,38400,Fallout: A Post Nuclear Role Playing Game,Interplay Inc.,Bethesda Softworks,0.89,2000000,['RPG']
+596,413150,Stardew Valley,ConcernedApe,ConcernedApe,0.89,5000000,"['Indie', 'RPG', 'Simulation']"
+708,49520,Borderlands 2,Gearbox Software,2K,0.89,10000000000,"['Action', 'RPG']"
+715,500,Left 4 Dead,Valve,Valve,0.89,5000000,['Action']
+717,501300,What Remains of Edith Finch,Giant Sparrow,Annapurna Interactive,0.89,500000,"['Adventure', 'Indie']"
+750,550,Left 4 Dead 2,Valve,Valve,0.89,20000000,['Action']
+788,588650,Dead Cells,Motion Twin,Motion Twin,0.89,1000000,"['Action', 'Indie', 'in Early Access']"
+796,601150,Devil May Cry 5,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",0.89,2000000,['Action']
+841,646570,Slay the Spire,Mega Crit Games,Mega Crit Games,0.89,2000000,"['Indie', 'Strategy', 'in Early Access']"
+846,653530,Return of the Obra Dinn,Lucas Pope,3909,0.89,200000,"['Adventure', 'Indie']"
+951,883710,Resident Evil 2,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",0.89,2000000,['Action']
+0,10,Counter-Strike,Valve,Valve,0.88,10000000000,['Action']
+11,1057090,Ori and the Will of the Wisps,Moon Studios GmbH,Xbox Game Studios,0.88,1000000,['Action']
+83,200710,Torchlight II,Runic Games,Runic Games,0.88,2000000,"['Action', 'Adventure', 'Indie', 'RPG']"
+118,20920,The Witcher 2: Assassins of Kings Enhanced Edition,CD PROJEKT RED,CD PROJEKT RED,0.88,2000000,['RPG']
+122,21090,F.E.A.R.,"Monolith Productions, Inc.",Warner Bros. Interactive Entertainment,0.88,1000000,['Action']
+154,220200,Kerbal Space Program,Squad,Private Division,0.88,2000000,"['Indie', 'Simulation', 'in Early Access']"
+155,220240,Far Cry 3,"Ubisoft Montreal, Massive Entertainment, and Ubisoft Shanghai",Ubisoft,0.88,2000000,"['Action', 'Adventure']"
+162,221640,Super Hexagon,Terry Cavanagh,Terry Cavanagh,0.88,1000000,"['Action', 'Indie']"
+164,221910,The Stanley Parable,Galactic Cafe,Galactic Cafe,0.88,2000000,"['Adventure', 'Indie']"
+240,240,Counter-Strike: Source,Valve,Valve,0.88,10000000000,['Action']
+306,261570,Ori and the Blind Forest,Moon Studios GmbH,Xbox Game Studios,0.88,1000000,['Action']
+325,268500,XCOM 2,Firaxis Games,2K,0.88,2000000,['Strategy']
+327,268910,Cuphead,Studio MDHR Entertainment Inc.,Studio MDHR Entertainment Inc.,0.88,2000000,"['Action', 'Indie']"
+367,289070,Sid Meierâ€™s Civilization VI,Firaxis Games,2K,0.88,5000000,['Strategy']
+547,387290,Ori and the Blind Forest: Definitive Edition,Moon Studios GmbH,Xbox Game Studios,0.88,1000000,['Action']
+689,48000,LIMBO,Playdead,Playdead,0.88,2000000,"['Action', 'Adventure', 'Indie']"
+691,481510,Night in the Woods,Infinite Fall,Finji,0.88,200000,['Adventure']
+692,48190,Assassinâ€™s Creed Brotherhood,Ubisoft Montreal,Ubisoft,0.88,1000000,"['Action', 'Adventure']"
+721,504230,Celeste,Matt Makes Games Inc.,Matt Makes Games Inc.,0.88,500000,"['Action', 'Adventure', 'Indie']"
+734,519860,DUSK,David Szymanski,New Blood Interactive,0.88,500000,"['Action', 'Indie', 'in Early Access']"
+767,560130,Pillars of Eternity II: Deadfire,Obsidian Entertainment,Versus Evil,0.88,500000,['RPG']
+781,582010,Monster Hunter: World,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",0.88,5000000,['Action']
+910,782330,DOOM Eternal,id Software,Bethesda Softworks,0.88,1000000,['Action']
+923,814380,Sekiro: Shadows Die Twice,FromSoftware,Activision (Excluding Japan and Asia),0.88,2000000,"['Action', 'Adventure']"
+937,8500,EVE Online,CCP,CCP,0.88,2000000,"['Action', 'Free to Play', 'Massively Multiplayer', 'RPG', 'Strategy']"
+953,8850,BioShock 2,2K Marin,2K,0.88,2000000,['Action']
+48,1190460,DEATH STRANDING,KOJIMA PRODUCTIONS,505 Games,0.87,500000,"['Action', 'Adventure']"
+93,204100,Max Payne 3,Rockstar Studios,Rockstar Games,0.87,1000000,['Action']
+123,210970,The Witness,"Thekla, Inc.","Thekla, Inc.",0.87,500000,"['Adventure', 'Indie']"
+196,230230,Divinity: Original Sin (Classic),Larian Studios,Larian Studios,0.87,1000000,"['Adventure', 'Indie', 'RPG', 'Strategy', 'in Early Access']"
+199,231160,The Swapper,"Olli Harjola, Otto Hantula, Tom Jubert, Carlo Castellano",Facepalm Games,0.87,500000,"['Action', 'Adventure', 'Indie']"
+223,236850,Europa Universalis IV,Paradox Development Studio,Paradox Interactive,0.87,2000000,"['Simulation', 'Strategy']"
+236,239140,Dying Light,Techland,Techland Publishing,0.87,5000000,"['Action', 'RPG']"
+243,240760,Wasteland 2: Director's Cut,inXile Entertainment,inXile Entertainment,0.87,500000,"['Adventure', 'Indie', 'RPG', 'Strategy']"
+269,247080,Crypt of the NecroDancer,Brace Yourself Games,Brace Yourself Games,0.87,500000,"['Action', 'Indie', 'RPG', 'in Early Access']"
+270,24740,Burnout Paradise: The Ultimate Box,Criterion Games,Electronic Arts,0.87,1000000,['Racing']
+278,24960,Battlefield: Bad Company 2,DICE,Electronic Arts,0.87,2000000,['Action']
+314,264710,Subnautica,Unknown Worlds Entertainment,Unknown Worlds Entertainment,0.87,2000000,"['Adventure', 'Indie', 'in Early Access']"
+379,294100,RimWorld,Ludeon Studios,Ludeon Studios,0.87,2000000,"['Indie', 'Simulation', 'Strategy', 'in Early Access']"
+400,304430,INSIDE,Playdead,Playdead,0.87,1000000,"['Action', 'Adventure', 'Indie']"
+486,3590,Plants vs. Zombies GOTY Edition,"PopCap Games, Inc.","PopCap Games, Inc.",0.87,2000000,['Strategy']
+508,367520,Hollow Knight,Team Cherry,Team Cherry,0.87,2000000,"['Action', 'Adventure', 'Indie']"
+529,380,Half-Life 2: Episode One,Valve,Valve,0.87,5000000,['Action']
+533,3830,Psychonauts,Double Fine Productions,Double Fine Productions,0.87,2000000,['Action']
+586,40800,Super Meat Boy,Team Meat,Electronic Arts,0.87,1000000,['Indie']
+595,412830,STEINS;GATE,MAGES. Inc.,"Spike Chunsoft Co., Ltd.",0.87,200000,['Adventure']
+685,47780,Dead Space 2,Visceral Games,Electronic Arts,0.87,1000000,"['Action', 'Adventure']"
+791,594570,Total War: WARHAMMER II,CREATIVE ASSEMBLY,SEGA,0.87,2000000,"['Action', 'Strategy']"
+889,736260,Baba Is You,Hempuli Oy,Hempuli Oy,0.87,200000,['Indie']
+963,928600,F1 2019,Codemasters,Codemasters,0.87,500000,"['Racing', 'Simulation', 'Sports']"
+2,10180,Call of Duty: Modern Warfare 2,Infinity Ward,Activision,0.86,5000000,['Action']
+14,107100,Bastion,Supergiant Games,Supergiant Games,0.86,2000000,"['Action', 'Indie', 'RPG']"
+59,1237970,Titanfall 2,Respawn Entertainment,Electronic Arts,0.86,1000000,['Action']
+70,17080,Tribes: Ascend,Hi-Rez Studios,Hi-Rez Studios,0.86,1000000,"['Action', 'Free to Play']"
+76,17470,Dead Space,EA Redwood Shores,Electronic Arts,0.86,2000000,['Action']
+90,203160,Tomb Raider,Crystal Dynamics,Square Enix,0.86,5000000,"['Action', 'Adventure']"
+104,206420,Saints Row IV,Deep Silver Volition,Deep Silver,0.86,2000000,"['Action', 'Adventure']"
+114,20900,The Witcher: Enhanced Edition Director's Cut,CD PROJEKT RED,CD PROJEKT RED,0.86,2000000,"['Action', 'RPG']"
+131,212500,The Lord of the Rings Online,"Standing Stone Games, LLC","Standing Stone Games, LLC",0.86,2000000,"['Free to Play', 'Massively Multiplayer', 'RPG']"
+142,21690,Resident Evil 5,Capcom,Capcom,0.86,1000000,"['Action', 'Adventure']"
+202,232430,Gone Home,Fullbright,Fullbright,0.86,500000,"['Adventure', 'Indie']"
+234,238960,Path of Exile,Grinding Gear Games,Grinding Gear Games,0.86,10000000000,"['Action', 'Adventure', 'Free to Play', 'Indie', 'Massively Multiplayer', 'RPG']"
+258,244160,Homeworld Remastered Collection,Gearbox Software,Gearbox Publishing,0.86,500000,"['Simulation', 'Strategy']"
+290,252950,Rocket League,Psyonix LLC,Psyonix LLC,0.86,10000000000,"['Action', 'Indie', 'Racing', 'Sports']"
+407,310560,DiRT Rally,Codemasters Racing Studio,Codemasters,0.86,1000000,"['Racing', 'Simulation', 'Sports', 'in Early Access']"
+449,33230,Assassin's Creed 2 Deluxe Edition,Ubisoft Montreal,Ubisoft,0.86,1000000,"['Action', 'Adventure']"
+500,364360,Total War: WARHAMMER,CREATIVE ASSEMBLY,SEGA,0.86,2000000,"['Action', 'Strategy']"
+512,368340,CrossCode,Radical Fish Games,Deck13,0.86,200000,"['Action', 'Adventure', 'Indie', 'RPG']"
+514,368370,Her Story,Sam Barlow,Sam Barlow,0.86,200000,"['Adventure', 'Indie', 'Simulation']"
+540,38410,Fallout 2: A Post Nuclear Role Playing Game,Black Isle Studios,Bethesda Softworks,0.86,1000000,['RPG']
+556,391220,Rise of the Tomb Raider,Crystal Dynamics,Square Enix,0.86,2000000,"['Action', 'Adventure']"
+582,403640,Dishonored 2,Arkane Studios,Bethesda Softworks,0.86,1000000,['Action']
+583,405640,Pony Island,Daniel Mullins Games,Daniel Mullins Games,0.86,200000,['Indie']
+662,457140,Oxygen Not Included,Klei Entertainment,Klei Entertainment,0.86,1000000,"['Indie', 'Simulation']"
+687,47870,Need For Speed: Hot Pursuit,Criterion Games,Electronic Arts,0.86,2000000,['Racing']
+688,47890,The Sims 3,The Sims Studio,Electronic Arts,0.86,2000000,['Simulation']
+778,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,PUBG Corporation,PUBG Corporation,0.86,20000000,"['Action', 'Adventure', 'Massively Multiplayer', 'in Early Access']"
+809,612880,Wolfenstein II: The New Colossus,Machine Games,Bethesda Softworks,0.86,1000000,['Action']
+818,627270,Injustice 2,NetherRealm Studios,WB Games,0.86,500000,['Action']
+832,638970,Yakuza 0,SEGA,SEGA,0.86,500000,"['Action', 'Adventure', 'RPG']"
+946,872790,Football Manager 2019,Sports Interactive,SEGA,0.86,1000000,"['Simulation', 'Sports']"
+29,1102190,Monster Train,Shiny Shoe,Good Shepherd Entertainment,0.85,200000,['Strategy']
+64,1286830,STAR WARS: The Old Republic,BioWare,Electronic Arts,0.85,1000000,"['Free to Play', 'Massively Multiplayer', 'RPG']"
+66,12900,AudioSurf,Dylan Fitterer,Codemasters,0.85,1000000,['Indie']
+69,15620,"Warhammer 40,000: Dawn of War II",Relic Entertainment,SEGA,0.85,2000000,['Strategy']
+79,19900,Far Cry 2: Fortune's Edition,Ubisoft Montreal,Ubisoft,0.85,1000000,['Action']
+112,208580,STAR WARS Knights of the Old Republic II - The Sith Lords,Obsidian Entertainment,LucasArts,0.85,1000000,['RPG']
+126,211420,DARK SOULS: Prepare To Die Edition,FromSoftware,BANDAI NAMCO Entertainment,0.85,2000000,"['Action', 'RPG']"
+148,219150,Hotline Miami,Dennaton Games,Devolver Digital,0.85,1000000,"['Action', 'Indie']"
+156,220440,DmC: Devil May Cry,Ninja Theory,Capcom,0.85,500000,"['Action', 'Adventure']"
+233,238460,BattleBlock Theater,The Behemoth,The Behemoth,0.85,2000000,"['Action', 'Adventure', 'Casual', 'Indie']"
+235,239030,"Papers, Please",Lucas Pope,Lucas Pope,0.85,2000000,"['Adventure', 'Indie']"
+246,241600,Rogue Legacy,Cellar Door Games,Cellar Door Games,0.85,1000000,"['Action', 'Adventure', 'Indie', 'RPG']"
+259,244210,Assetto Corsa,Kunos Simulazioni,Kunos Simulazioni,0.85,1000000,"['Indie', 'Racing', 'Simulation', 'Sports', 'in Early Access']"
+280,250320,The Wolf Among Us,"LCG Entertainment, Inc.","Athlon Games, Inc.",0.85,1000000,"['Action', 'Adventure', 'Casual']"
+283,250760,Shovel Knight: Treasure Trove,Yacht Club Games,Yacht Club Games,0.85,500000,"['Action', 'Adventure', 'Indie']"
+296,255710,Cities: Skylines,Colossal Order Ltd.,Paradox Interactive,0.85,5000000,"['Simulation', 'Strategy']"
+298,257510,The Talos Principle,Croteam,Devolver Digital,0.85,1000000,"['Action', 'Adventure', 'Indie']"
+528,379720,DOOM,id Software,Bethesda Softworks,0.85,2000000,['Action']
+585,40700,Machinarium,Amanita Design,Amanita Design,0.85,500000,"['Adventure', 'Indie']"
+604,418240,Shadow Tactics: Blades of the Shogun,Mimimi Games,Daedalic Entertainment,0.85,1000000,"['Indie', 'Strategy']"
+722,504370,Battlerite,Stunlock Studios,Stunlock Studios,0.85,2000000,"['Action', 'Free to Play', 'in Early Access']"
+748,548430,Deep Rock Galactic,Ghost Ship Games,Coffee Stain Publishing,0.85,2000000,"['Action', 'Indie']"
+775,57300,Amnesia: The Dark Descent,Frictional Games,Frictional Games,0.85,2000000,"['Action', 'Adventure', 'Indie']"
+823,632360,Risk of Rain 2,Hopoo Games,Gearbox Publishing,0.85,5000000,"['Action', 'Indie', 'in Early Access']"
+860,678950,DRAGON BALL FighterZ,Arc System Works,BANDAI NAMCO Entertainment,0.85,1000000,['Action']
+899,753640,Outer Wilds,Mobius Digital,Annapurna Interactive,0.85,200000,"['Action', 'Adventure']"
+909,779340,Total War: THREE KINGDOMS,CREATIVE ASSEMBLY,SEGA,0.85,2000000,"['Action', 'Strategy']"
+920,813630,Supraland,Supra Games,Supra Games,0.85,200000,"['Action', 'Adventure', 'Indie']"
+986,973760,Thronebreaker: The Witcher Tales,CD PROJEKT RED,CD PROJEKT RED,0.85,200000,"['Adventure', 'RPG']"
+27,1100600,Football Manager 2020,Sports Interactive,SEGA,0.84,2000000,"['Simulation', 'Sports']"
+36,113200,The Binding of Isaac,Edmund McMillen and Florian Himsl,Edmund McMillen,0.84,2000000,"['Action', 'Adventure', 'Indie', 'RPG']"
+72,17390,SPORE,Maxisâ„¢,Electronic Arts,0.84,1000000,"['Action', 'Adventure', 'Casual', 'RPG', 'Simulation', 'Strategy']"
+107,207140,SpeedRunners,DoubleDutch Games,tinyBuild,0.84,2000000,"['Action', 'Casual', 'Indie', 'Racing', 'Sports', 'in Early Access']"
+132,212680,FTL: Faster Than Light,Subset Games,Subset Games,0.84,2000000,"['Indie', 'Simulation', 'Strategy']"
+144,218230,PlanetSide 2,Rogue Planet Games,Daybreak Game Company,0.84,5000000,"['Action', 'Free to Play', 'Massively Multiplayer']"
+175,22380,Fallout: New Vegas,Obsidian Entertainment,Bethesda Softworks,0.84,2000000,"['Action', 'RPG']"
+181,22490,Fallout: New Vegas,Obsidian Entertainment,Bethesda Softworks,0.84,500000,"['Action', 'RPG']"
+247,241930,Middle-earth: Shadow of Mordor,Monolith Productions,WB Games,0.84,2000000,['']
+299,257850,Hyper Light Drifter,Heart Machine,Heart Machine,0.84,500000,"['Action', 'Adventure', 'Indie', 'RPG']"
+309,262060,Darkest Dungeon,Red Hook Studios,Red Hook Studios,0.84,2000000,"['Indie', 'RPG', 'Strategy', 'in Early Access']"
+348,282140,SOMA,Frictional Games,Frictional Games,0.84,1000000,"['Action', 'Adventure', 'Indie']"
+352,283640,Salt and Sanctuary,Ska Studios,Ska Studios,0.84,200000,"['Action', 'Indie', 'RPG']"
+406,307780,Mortal Kombat X,NetherRealm Studios,Warner Bros. Interactive Entertainment,0.84,1000000,['Action']
+412,311690,Enter the Gungeon,Dodge Roll,Devolver Digital,0.84,2000000,"['Action', 'Adventure', 'Indie']"
+431,323190,Frostpunk,11 bit studios,11 bit studios,0.84,2000000,"['Simulation', 'Strategy']"
+485,35720,Trine 2: Complete Story,Frozenbyte,Frozenbyte,0.84,2000000,"['Action', 'Adventure', 'Indie']"
+496,362890,Black Mesa,Crowbar Collective,Crowbar Collective,0.84,1000000,"['Action', 'Adventure', 'Indie']"
+525,377160,Fallout 4,Bethesda Game Studios,Bethesda Softworks,0.84,5000000,['RPG']
+526,378860,Project CARS 2,Slightly Mad Studios,BANDAI NAMCO Entertainment,0.84,500000,['Racing']
+555,39120,RIFT,Trion Worlds,Trion Worlds,0.84,2000000,"['Free to Play', 'Massively Multiplayer', 'RPG']"
+695,485510,Nioh: Complete Edition / ä»çŽ‹ Complete Edition,"KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",0.84,1000000,"['Action', 'RPG']"
+705,493340,Planet Coaster,Frontier Developments,Frontier Developments,0.84,1000000,"['Action', 'Adventure', 'Casual', 'Simulation', 'Strategy']"
+735,524220,NieR:Automata,Square Enix,Square Enix,0.84,1000000,"['Action', 'RPG']"
+756,55230,Saints Row: The Third,Volition,Deep Silver,0.84,2000000,['Action']
+760,553640,ICEY,FantaBlade Network,X.D. Network Inc.,0.84,500000,"['Action', 'Adventure', 'RPG']"
+766,557600,Gorogoa,Buried Signal,Annapurna Interactive,0.84,200000,"['Adventure', 'Casual', 'Indie']"
+786,584400,Sonic Mania,Christian Whitehead,SEGA,0.84,200000,"['Action', 'Adventure', 'Casual']"
+862,683320,GRIS,Nomada Studio,Devolver Digital,0.84,500000,"['Adventure', 'Indie']"
+865,690790,DiRT Rally 2.0,Codemasters,Codemasters,0.84,500000,"['Racing', 'Simulation', 'Sports']"
+921,813780,Age of Empires II: Definitive Edition,Forgotten Empires,Xbox Game Studios,0.84,2000000,['Strategy']
+925,8190,Just Cause 2,Avalanche Studios,Square Enix,0.84,2000000,"['Action', 'Adventure']"
+990,985890,Streets of Rage 4,Dotemu,Dotemu,0.84,"200,000","['Action', 'Indie']"
+1,10090,Call of Duty: World at War,Treyarch,Activision,0.83,2000000,['Action']
+10,105600,Terraria,Re-Logic,Re-Logic,0.83,20000000,"['Action', 'Adventure', 'Indie', 'RPG']"
+17,1085660,Destiny 2,Bungie,Bungie,0.83,10000000000,"['Action', 'Adventure', 'Free to Play']"
+19,108710,Alan Wake,Remedy Entertainment,Remedy Entertainment,0.83,2000000,"['Action', 'Adventure']"
+30,110800,L.A. Noire,Team Bondi,Rockstar Games,0.83,1000000,"['Adventure', 'Strategy']"
+35,113020,Monaco: What's Yours Is Mine,Pocketwatch Games,Pocketwatch Games,0.83,1000000,"['Action', 'Adventure', 'Casual', 'Indie', 'Strategy']"
+84,201790,Orcs Must Die! 2,Robot Entertainment,Robot Entertainment,0.83,2000000,"['Action', 'Indie', 'Strategy']"
+102,206190,Gunpoint,Suspicious Developments,Suspicious Developments,0.83,500000,"['Action', 'Indie', 'Strategy']"
+152,219990,Grim Dawn,Crate Entertainment,Crate Entertainment,0.83,10000000000,"['Action', 'Adventure', 'Indie', 'RPG', 'in Early Access']"
+207,233450,Prison Architect,Double Eleven,Paradox Interactive,0.83,2000000,"['Indie', 'Simulation', 'Strategy', 'in Early Access']"
+212,234630,Project CARS,Slightly Mad Studios,Slightly Mad Studios,0.83,1000000,"['Racing', 'Simulation', 'Sports']"
+215,235460,METAL GEAR RISING: REVENGEANCE,PlatinumGames,Konami Digital Entertainment,0.83,500000,['Action']
+226,237930,Transistor,Supergiant Games,Supergiant Games,0.83,1000000,"['Action', 'Indie', 'RPG']"
+254,242760,The Forest,Endnight Games Ltd,Endnight Games Ltd,0.83,5000000,"['Action', 'Adventure', 'Indie', 'Simulation']"
+263,245170,Skullgirls,Lab Zero Games,Marvelous,0.83,1000000,"['Action', 'Indie']"
+274,248610,Door Kickers,KillHouse Games,KillHouse Games,0.83,500000,"['Action', 'Indie', 'Simulation', 'Strategy']"
+337,274190,Broforce,Free Lives,Devolver Digital,0.83,2000000,"['Action', 'Adventure', 'Casual', 'Indie', 'in Early Access']"
+347,282070,This War of Mine,11 bit studios,11 bit studios,0.83,2000000,"['Adventure', 'Indie', 'Simulation']"
+429,322330,Don't Starve Together,Klei Entertainment,Klei Entertainment,0.83,5000000,"['Adventure', 'Indie', 'Simulation', 'in Early Access']"
+459,337000,Deus Ex: Mankind Divided,Eidos Montreal,Square Enix,0.83,1000000,"['Action', 'RPG']"
+541,384190,ABZU,Giant Squid,505 Games,0.83,500000,"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation']"
+545,386360,SMITE,Titan Forge Games,Hi-Rez Studios,0.83,10000000000,"['Action', 'Free to Play']"
+562,39210,FINAL FANTASY XIV Online,Square Enix,Square Enix,0.83,2000000,"['Massively Multiplayer', 'RPG']"
+568,394360,Hearts of Iron IV,Paradox Development Studio,Paradox Interactive,0.83,2000000,"['Simulation', 'Strategy']"
+569,394510,HELLDIVERS Dive Harder Edition,Arrowhead Game Studios,"PlayStation Mobile, Inc.",0.83,1000000,['Action']
+598,413420,Danganronpa 2: Goodbye Despair,"Spike Chunsoft Co., Ltd.","Spike Chunsoft Co., Ltd.",0.83,200000,['Adventure']
+599,414340,Hellblade: Senua's Sacrifice,Ninja Theory,Ninja Theory,0.83,1000000,"['Action', 'Adventure', 'Indie']"
+606,418370,Resident Evil 7 Biohazard,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",0.83,1000000,"['Action', 'Adventure']"
+646,444090,Paladins,Evil Mojo Games,Hi-Rez Studios,0.83,10000000000,"['Action', 'Free to Play']"
+668,460950,Katana ZERO,Askiisoft,Devolver Digital,0.83,500000,"['Action', 'Indie']"
+693,48240,Anno 2070,Blue Byte,Ubisoft,0.83,500000,['Strategy']
+724,50620,Darksiders,Vigil Games,THQ Nordic,0.83,2000000,"['Action', 'Adventure']"
+743,535930,Two Point Hospital,Two Point Studios,SEGA,0.83,1000000,"['Indie', 'Simulation']"
+763,555220,Detention,RedCandleGames,RedCandleGames,0.83,500000,"['Adventure', 'Indie']"
+884,730,Counter-Strike: Global Offensive,Valve,Valve,0.83,100000000,"['Action', 'Free to Play']"
+890,737800,F1 2018,Codemasters,Codemasters,0.83,200000,"['Racing', 'Simulation', 'Sports']"
+5,1046030,ISLANDERS,GrizzlyGames,GrizzlyGames,0.82,200000,"['Casual', 'Indie', 'Strategy']"
+26,1097840,Gears 5,The Coalition,Xbox Game Studios,0.82,200000,"['Action', 'Adventure']"
+77,17480,Command & Conquer: Red Alert 3,EA Los Angeles,Electronic Arts,0.82,500000,['Strategy']
+80,200210,Realm of the Mad God Exalt,Wild Shadow Studios,Deca Games,0.82,2000000,"['Action', 'Free to Play', 'Indie', 'Massively Multiplayer', 'RPG']"
+92,203770,Crusader Kings II,Paradox Development Studio,Paradox Interactive,0.82,2000000,"['Free to Play', 'RPG', 'Simulation', 'Strategy']"
+98,204880,Sins of a Solar Empire: Rebellion,Ironclad Games,Stardock Entertainment,0.82,2000000,"['Action', 'Indie', 'Simulation', 'Strategy']"
+99,20500,Red Faction Guerrilla Steam Edition,Volition,Deep Silver,0.82,1000000,['Action']
+108,207610,The Walking Dead,Telltale Games,Skybound Games,0.82,2000000,['Adventure']
+151,219890,Antichamber,Alexander Bruce,Demruth,0.82,1000000,"['Adventure', 'Indie']"
+300,258520,The Vanishing of Ethan Carter,The Astronauts,The Astronauts,0.82,500000,"['Adventure', 'Indie']"
+368,289130,Endless Legend - Emperor Edition,AMPLITUDE Studios,SEGA,0.82,1000000,"['RPG', 'Strategy']"
+398,304240,Resident Evil,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",0.82,1000000,"['Action', 'Adventure']"
+413,312530,Duck Game,Landon Podbielski,Adult Swim Games,0.82,1000000,"['Action', 'Indie']"
+430,322500,SUPERHOT,SUPERHOT Team,SUPERHOT Team,0.82,1000000,"['Action', 'Indie']"
+445,330020,Children of Morta,Dead Mage,11 bit studios,0.82,500000,"['Action', 'Adventure', 'Indie', 'RPG']"
+504,365450,Hacknet,Team Fractal Alligator,Fellow Traveller,0.82,1000000,"['Indie', 'Simulation']"
+553,389730,TEKKEN 7,BANDAI NAMCO Studios Inc.,BANDAI NAMCO Entertainment,0.82,1000000,"['Action', 'Sports']"
+594,412020,Metro Exodus,4A Games,Deep Silver ,0.82,500000,['Action']
+597,413410,Danganronpa: Trigger Happy Havoc,"Spike Chunsoft Co., Ltd.","Spike Chunsoft Co., Ltd.",0.82,500000,['Adventure']
+623,428550,Momodora: Reverie Under The Moonlight,Bombservice,PLAYISM,0.82,500000,"['Action', 'Adventure', 'Indie']"
+658,4500,S.T.A.L.K.E.R.: Shadow of Chernobyl,GSC Game World,GSC Game World,0.82,1000000,"['Action', 'RPG']"
+757,552500,Warhammer: Vermintide 2,Fatshark,Fatshark,0.82,5000000,"['Action', 'Indie']"
+863,6860,Hitman: Blood Money,Io-Interactive A/S,Io-Interactive A/S,0.82,1000000,['Action']
+943,863550,HITMAN 2,IO Interactive A/S,Warner Bros Interactive Entertainment,0.82,5000000,['Action']
+987,976310,Mortal Kombat 11,NetherRealm Studios,Warner Bros Interactive Entertainment,0.82,1000000,['Action']
+4,102500,Kingdoms of Amalur: Reckoning,Big Huge Games,38 Studios,0.81,500000,"['Action', 'RPG']"
+9,105450,Age of Empires III (2007),Ensemble Studios,Xbox Game Studios,0.81,2000000,"['Simulation', 'Strategy']"
+44,1172380,STAR WARS Jedi: Fallen Order,Respawn Entertainment,Electronic Arts,0.81,2000000,"['Action', 'Adventure']"
+73,17410,Mirror's Edge,DICE,Electronic Arts,0.81,2000000,"['Action', 'Adventure']"
+85,201810,Wolfenstein: The New Order,Machine Games,Bethesda-Soft,0.81,1000000,['Action']
+105,206440,To the Moon,Freebird Games,Freebird Games,0.81,1000000,"['Adventure', 'Indie', 'RPG']"
+128,211820,Starbound,Chucklefish,Chucklefish,0.81,2000000,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG', 'in Early Access']"
+137,214490,Alien: Isolation,Creative Assembly,SEGA,0.81,1000000,['Action']
+188,226860,Galactic Civilizations III,Stardock Entertainment,Stardock Entertainment,0.81,500000,"['Indie', 'Strategy', 'in Early Access']"
+195,228380,Wreckfest,Bugbear,THQ Nordic,0.81,500000,"['Action', 'Indie', 'Racing', 'Simulation', 'Sports']"
+205,233270,Far Cry 3 - Blood Dragon,Ubisoft Montreal,Ubisoft,0.81,1000000,"['Action', 'Adventure']"
+220,236390,War Thunder,Gaijin Entertainment,Gaijin Distribution KFT,0.81,10000000000,"['Action', 'Free to Play', 'Massively Multiplayer', 'Simulation']"
+225,237110,Mortal Kombat Komplete Edition,NetherRealm Studios,Warner Bros. Interactive Entertainment,0.81,500000,['Action']
+401,304650,SUNLESS SEA,Failbetter Games,Failbetter Games,0.81,500000,"['Adventure', 'Indie', 'RPG']"
+461,337340,Finding Paradise,Freebird Games,Freebird Games,0.81,200000,"['Adventure', 'Indie', 'RPG']"
+466,34030,Total War: NAPOLEON â€“ Definitive Edition,CREATIVE ASSEMBLY,SEGA,0.81,1000000,['Strategy']
+507,367500,Dragon's Dogma: Dark Arisen,Capcom,Capcom,0.81,1000000,"['Action', 'Adventure', 'RPG']"
+537,383870,Firewatch,Campo Santo,Panic,0.81,1000000,"['Adventure', 'Indie']"
+574,397540,Borderlands 3,Gearbox Software,2K,0.81,1000000,"['Action', 'RPG']"
+601,415200,Motorsport Manager,Playsport Games,SEGA,0.81,500000,"['Racing', 'Simulation', 'Sports', 'Strategy']"
+607,418460,Rising Storm 2: Vietnam,Antimatter Games,Tripwire Interactive,0.81,1000000,"['Action', 'Massively Multiplayer', 'Simulation', 'Strategy']"
+617,424840,Little Nightmares,Tarsier Studios,BANDAI NAMCO Entertainment,0.81,500000,['Adventure']
+619,42700,Call of Duty: Black Ops,Treyarch,Activision,0.81,2000000,['Action']
+630,433340,Slime Rancher,Monomi Park,Monomi Park,0.81,1000000,"['Action', 'Adventure', 'Indie', 'Simulation', 'in Early Access']"
+656,448510,Overcooked,Ghost Town Games Ltd.,Team17 Digital Ltd,0.81,1000000,"['Action', 'Casual', 'Indie', 'Simulation']"
+744,536220,The Walking Dead: A New Frontier,Telltale Games,Skybound Games,0.81,200000,['Adventure']
+759,552990,World of Warships,Wargaming Group Limited,Wargaming Group Limited,0.81,10000000000,"['Action', 'Free to Play', 'Massively Multiplayer', 'Simulation', 'in Early Access']"
+765,557340,My Friend Pedro,DeadToast Entertainment,Devolver Digital,0.81,200000,"['Action', 'Indie']"
+792,594650,Hunt: Showdown,Crytek,Crytek,0.81,2000000,"['Action', 'in Early Access']"
+799,6020,STAR WARS Jedi Knight - Jedi Academy,Raven Software,LucasArts,0.81,1000000,['Action']
+820,629760,MORDHAU,Triternion,Triternion,0.81,2000000,"['Action', 'Indie']"
+848,65800,Dungeon Defenders,Trendy Entertainment,Trendy Entertainment,0.81,1000000,"['Action', 'Indie', 'RPG', 'Strategy']"
+850,65980,Sid Meier's Civilization: Beyond Earth,Firaxis Games,2K,0.81,1000000,['Strategy']
+872,70300,VVVVVV,Terry Cavanagh,Terry Cavanagh,0.81,500000,"['Action', 'Indie']"
+873,703080,Planet Zoo,Frontier Developments,Frontier Developments,0.81,500000,"['Casual', 'Simulation', 'Strategy']"
+882,728880,Overcooked! 2,Ghost Town Games Ltd.,Team17 Digital Ltd,0.81,1000000,"['Action', 'Casual', 'Indie']"
+898,752590,A Plague Tale: Innocence,Asobo Studio,Focus Home Interactive,0.81,500000,"['Action', 'Adventure']"
+958,8980,Borderlands Game of the Year,Gearbox Software,2K,0.81,1000000,"['Action', 'RPG']"
+966,9420,Supreme Commander: Forged Alliance,Gas Powered Games,Square Enix,0.81,500000,['Strategy']
+969,94400,Nidhogg,Messhof,Messhof,0.81,500000,"['Action', 'Indie', 'Sports']"
+25,1097150,Fall Guys: Ultimate Knockout,Mediatonic,Devolver Digital,0.8,5000000,"['Action', 'Casual', 'Indie', 'Massively Multiplayer', 'Sports']"
+57,1222140,Detroit: Become Human,Quantic Dream,Quantic Dream,0.8,200000,"['Action', 'Adventure']"
+63,1284410,GWENT: The Witcher Card Game,CD PROJEKT RED,CD PROJEKT RED,0.8,500000,"['Free to Play', 'RPG', 'Strategy']"
+86,201870,Assassin's Creed Revelations,Ubisoft Montreal,Ubisoft,0.8,500000,"['Action', 'Adventure']"
+87,202170,Sleeping Dogs,United Front Games,Square Enix,0.8,1000000,"['Action', 'Adventure']"
+111,208480,Assassinâ€™s Creed III,Ubisoft Montreal,Ubisoft,0.8,1000000,['Adventure']
+138,214510,LEGO The Lord of the Rings,Traveller's Tales,Warner Bros. Interactive Entertainment,0.8,500000,"['Action', 'Adventure']"
+183,225260,Brutal Legend,Double Fine Productions,Double Fine Productions,0.8,2000000,"['Action', 'Adventure', 'Strategy']"
+187,226840,Age of Wonders III,Triumph Studios,Paradox Interactive,0.8,1000000,"['RPG', 'Strategy']"
+200,231430,Company of Heroes 2,Relic Entertainment,SEGA,0.8,5000000,['Strategy']
+214,234670,NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD,CyberConnect2 Co. Ltd.,BANDAI NAMCO Entertainment,0.8,500000,"['Action', 'Adventure']"
+227,237990,The Banner Saga,Stoic,Versus Evil,0.8,500000,"['Indie', 'RPG', 'Strategy']"
+230,238320,Outlast,Red Barrels,Red Barrels,0.8,2000000,"['Action', 'Adventure', 'Indie']"
+302,2600,Vampire: The Masquerade - Bloodlines,Troika Games,Activision,0.8,500000,['Action']
+304,261030,The Walking Dead: Season Two,Telltale Games,Skybound Games,0.8,1000000,['Adventure']
+338,274520,Darkwood,Acid Wizard Studio,Acid Wizard Studio,0.8,200000,"['Action', 'Adventure', 'Indie', 'RPG', 'in Early Access']"
+384,298110,Far Cry 4,"Ubisoft Montreal, Red Storm, Shanghai, Toronto, Kiev",Ubisoft,0.8,1000000,"['Action', 'Adventure']"
+389,300,Day of Defeat: Source,Valve,Valve,0.8,5000000,['Action']
+410,311340,METAL GEAR SOLID V: GROUND ZEROES,Konami Digital Entertainment,Konami Digital Entertainment,0.8,1000000,"['Action', 'Adventure']"
+435,323850,Move or Die,Those Awesome Guys,Those Awesome Guys,0.8,1000000,"['Action', 'Indie', 'in Early Access']"
+439,325610,Total War: ATTILA,CREATIVE ASSEMBLY,SEGA,0.8,1000000,['Strategy']
+484,35700,Trine Enchanted Edition,Frozenbyte,Frozenbyte,0.8,2000000,"['Action', 'Adventure', 'Indie']"
+488,359320,Elite Dangerous,Frontier Developments,Frontier Developments,0.8,1000000,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Simulation', 'Strategy']"
+498,362960,Tyranny,Obsidian Entertainment,Paradox Interactive,0.8,500000,"['Adventure', 'RPG']"
+503,365360,Battle Brothers,Overhype Studios,Overhype Studios,0.8,500000,"['Indie', 'RPG', 'Strategy', 'in Early Access']"
+551,388880,Oxenfree,Night School Studio,Night School Studio,0.8,200000,"['Adventure', 'Indie']"
+589,409710,BioShock Remastered,2K Boston,2K,0.8,1000000,"['Action', 'RPG']"
+602,41700,S.T.A.L.K.E.R.: Call of Pripyat,GSC Game World,GSC Game World,0.8,1000000,"['Action', 'RPG']"
+611,420530,OneShot,Future Cat LLC,Degica,0.8,200000,"['Adventure', 'Casual', 'Indie']"
+627,429660,Tales of Berseria,BANDAI NAMCO Studios Inc.,BANDAI NAMCO Entertainment,0.8,500000,"['Action', 'RPG']"
+637,437920,Tricky Towers,WeirdBeard,WeirdBeard,0.8,200000,"['Casual', 'Indie']"
+644,44350,GRID 2,Codemasters Racing,Codemasters,0.8,5000000,"['Racing', 'Sports']"
+673,466560,Northgard,Shiro Games,Shiro Games,0.8,1000000,"['Indie', 'Simulation', 'Strategy', 'in Early Access']"
+694,482730,Football Manager 2017,Sports Interactive,SEGA,0.8,1000000,"['Simulation', 'Sports']"
+703,4920,Natural Selection 2,Unknown Worlds Entertainment,Unknown Worlds Entertainment,0.8,1000000,"['Action', 'Indie', 'Strategy']"
+745,544810,KARDS - The WWII Card Game,1939 Games,1939 Games,0.8,500000,"['Casual', 'Free to Play', 'Indie', 'Strategy', 'in Early Access']"
+769,567640,Danganronpa V3: Killing Harmony,"Spike Chunsoft Co., Ltd.","Spike Chunsoft Co., Ltd.",0.8,200000,['Adventure']
+797,601430,The Evil Within 2,Tango Gameworks,Bethesda Softworks,0.8,200000,"['Action', 'Adventure']"
+806,609320,FAR: Lone Sails,Okomotive,Mixtvision,0.8,200000,"['Action', 'Adventure', 'Indie']"
+911,787480,Phoenix Wright: Ace Attorney Trilogy,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",0.8,200000,['Adventure']
+68,15100,Assassin's Creed: Director's Cut Edition,Ubisoft Montreal,Ubisoft,0.79,500000,"['Action', 'Adventure']"
+89,203140,Hitman: Absolution,Io-Interactive A/S,Io-Interactive A/S,0.79,2000000,['Action']
+97,204450,Call of Juarez Gunslinger,Techland,Ubisoft,0.79,1000000,['Action']
+145,218620,PAYDAY 2,OVERKILL - a Starbreeze Studio.,Starbreeze Publishing AB,0.79,10000000000,"['Action', 'RPG']"
+149,219640,Chivalry: Medieval Warfare,Torn Banner Studios,Torn Banner Studios,0.79,5000000,"['Action', 'Indie']"
+150,219740,Don't Starve,Klei Entertainment,Klei Entertainment,0.79,5000000,"['Adventure', 'Indie', 'Simulation']"
+189,227300,Euro Truck Simulator 2,SCS Software,SCS Software,0.79,5000000,"['Indie', 'Simulation']"
+216,235540,Warhammer: End Times - Vermintide,Fatshark,Fatshark,0.79,1000000,"['Action', 'Indie']"
+244,241540,State of Decay,Undead Labs,Xbox Game Studios,0.79,500000,"['Action', 'RPG', 'Simulation']"
+252,242700,Injustice: Gods Among Us Ultimate Edition,NetherRealm Studios,Warner Bros. Interactive Entertainment,0.79,1000000,['Action']
+276,249050,Dungeon of the Endless - Crystal Edition,AMPLITUDE Studios,SEGA,0.79,500000,"['Adventure', 'Indie', 'RPG', 'Strategy']"
+291,253230,A Hat in Time,Gears for Breakfast,Gears for Breakfast,0.79,500000,"['Adventure', 'Indie']"
+294,254700,Resident Evil 4,Capcom,Capcom,0.79,1000000,"['Action', 'Adventure']"
+457,335300,DARK SOULS II: Scholar of the First Sin,"FromSoftware, Inc",BANDAI NAMCO Entertainment,0.79,2000000,"['Action', 'RPG']"
+572,396750,EVERSPACE,ROCKFISH Games,ROCKFISH Games,0.79,500000,"['Action', 'Indie', 'in Early Access']"
+591,410320,EARTH DEFENSE FORCE 4.1 The Shadow of New Despair,SANDLOT,D3 PUBLISHER,0.79,500000,['Action']
+650,445980,Wizard of Legend,Contingent99,Contingent99,0.79,500000,"['Action', 'Adventure', 'Indie']"
+737,527230,For The King,IronOak Games,Curve Digital,0.79,500000,"['Adventure', 'Indie', 'RPG', 'Strategy', 'in Early Access']"
+935,845070,The Awesome Adventures of Captain Spirit,DONTNOD Entertainment,Square Enix,0.79,2000000,"['Adventure', 'Free to Play']"
+962,9200,RAGE,id Software,Bethesda Softworks,0.79,1000000,['Action']
+94,204300,Awesomenauts - the 2D moba,Ronimo Games,Ronimo Games,0.78,2000000,"['Action', 'Free to Play', 'Indie', 'Strategy']"
+119,209650,Call of Duty: Advanced Warfare - Gold Edition,Sledgehammer Games,Activision,0.78,500000,['Action']
+125,211400,Deadlight,"Tequila Works, S.L.",Xbox Game Studios,0.78,500000,"['Action', 'Adventure', 'Indie']"
+193,228280,Baldur's Gate: Enhanced Edition,Beamdog,Beamdog,0.78,1000000,"['RPG', 'Strategy']"
+277,249130,LEGO Marvel Super Heroes,Traveller's Tales,Warner Bros. Interactive Entertainment,0.78,1000000,"['Action', 'Adventure']"
+285,251060,Wargame: Red Dragon,Eugen Systems,Eugen Systems,0.78,1000000,"['Indie', 'Simulation', 'Strategy']"
+295,255220,GRID Autosport,Codemasters Racing,Codemasters,0.78,500000,"['Racing', 'Sports']"
+320,266510,Hand of Fate,Defiant Development,Defiant Development,0.78,500000,"['Action', 'Indie', 'RPG']"
+330,270150,RUNNING WITH RIFLES,Osumia Games,Osumia Games,0.78,500000,"['Action', 'Indie', 'in Early Access']"
+346,281990,Stellaris,Paradox Development Studio,Paradox Interactive,0.78,2000000,"['Simulation', 'Strategy']"
+375,291860,Pit People,The Behemoth,The Behemoth,0.78,200000,"['Action', 'Indie', 'RPG', 'Strategy', 'in Early Access']"
+414,312660,Sniper Elite 4,Rebellion,Rebellion,0.78,1000000,"['Action', 'Adventure']"
+424,319510,Five Nights at Freddy's,Scott Cawthon,Scott Cawthon,0.78,500000,"['Indie', 'Simulation']"
+438,324800,Shadow Warrior 2,Flying Wild Hog,Devolver Digital,0.78,500000,"['Action', 'Adventure']"
+458,335670,LISA: The Painful,Dingaling,"Dingaling Productions, LLC",0.78,200000,"['Adventure', 'Indie', 'RPG']"
+588,40970,Stronghold Crusader HD,FireFly Studios,FireFly Studios,0.78,2000000,"['Simulation', 'Strategy']"
+612,421020,DiRT 4,Codemasters,Codemasters,0.78,500000,"['Racing', 'Simulation', 'Sports']"
+635,435400,Hidden Folks,Adriaan de Jongh,Adriaan de Jongh,0.78,200000,"['Adventure', 'Casual', 'Indie']"
+696,48700,Mount & Blade: Warband,TaleWorlds Entertainment,TaleWorlds Entertainment,0.78,2000000,"['Action', 'RPG']"
+704,492720,Tropico 6,Limbic Entertainment,Kalypso Media,0.78,500000,"['Simulation', 'Strategy']"
+777,57690,Tropico 4,Haemimont Games,Kalypso Media Digital,0.78,2000000,"['Simulation', 'Strategy']"
+780,581320,Insurgency: Sandstorm,New World Interactive,Focus Home Interactive,0.78,1000000,['Action']
+795,6000,STAR WARS Republic Commando,LucasArts,LucasArts,0.78,1000000,['Action']
+802,6060,"Star Wars: Battlefront 2 (Classic, 2005)",Pandemic Studios,Lucasfilm,0.78,2000000,['Action']
+811,617290,Remnant: From the Ashes,Gunfire Games,Perfect World Entertainment,0.78,1000000,"['Action', 'Adventure', 'RPG']"
+829,637090,BATTLETECH,Harebrained Schemes,Paradox Interactive,0.78,1000000,"['Action', 'Adventure', 'Strategy']"
+897,751780,Forager,HopFrog,Humble Games,0.78,500000,"['Action', 'Adventure', 'Indie', 'Simulation']"
+901,760060,Mutant Year Zero: Road to Eden,The Bearded Ladies,Funcom,0.78,500000,"['RPG', 'Strategy']"
+110,208140,Endless Space - Collection,AMPLITUDE Studios,SEGA,0.77,1000000,['Strategy']
+121,210770,Sanctum 2,Coffee Stain Studios,Coffee Stain Publishing,0.77,2000000,"['Action', 'Indie', 'Strategy']"
+157,220780,Thomas Was Alone,Bithell Games,Bithell Games,0.77,500000,['Indie']
+165,222480,Resident Evil Revelations,Capcom,Capcom,0.77,500000,"['Action', 'Adventure']"
+257,243470,Watch_Dogs,Ubisoft,Ubisoft,0.77,500000,"['Action', 'Adventure']"
+275,248820,Risk of Rain,Hopoo Games,Chucklefish,0.77,1000000,"['Action', 'Indie', 'RPG']"
+297,256290,Child of Light,Ubisoft MontrÃ©al,Ubisoft,0.77,500000,['RPG']
+335,273350,Evolve Stage 2,Turtle Rock Studios,2K,0.77,5000000,"['Action', 'Free to Play']"
+354,285190,"Warhammer 40,000: Dawn of War III",Relic Entertainment,SEGA,0.77,1000000,"['Action', 'Simulation', 'Strategy']"
+364,287980,Mini Metro,Dinosaur Polo Club,Dinosaur Polo Club,0.77,500000,"['Indie', 'Simulation', 'Strategy', 'in Early Access']"
+432,323370,TERA,"Bluehole, Inc.",En Masse Entertainment,0.77,2000000,"['Action', 'Adventure', 'Free to Play', 'Massively Multiplayer', 'RPG']"
+436,32440,LEGO Star Wars - The Complete Saga,Traveller's Tales,LucasArts,0.77,500000,['Adventure']
+580,40100,Supreme Commander 2,Gas Powered Games,Square Enix,0.77,1000000,['Strategy']
+654,447530,VA-11 Hall-A: Cyberpunk Bartender Action,Sukeban Games,Ysbryd Games,0.77,500000,"['Adventure', 'Indie', 'Simulation']"
+655,447820,Day of Infamy,New World Interactive,New World Interactive,0.77,1000000,"['Action', 'Indie', 'Strategy', 'in Early Access']"
+702,491950,Orwell: Keeping an Eye On You,Osmotic Studios,Fellow Traveller,0.77,1000000,"['Adventure', 'Indie', 'Simulation']"
+716,50130,Mafia II (Classic),2K Czech,2K,0.77,2000000,['Action']
+761,554620,Life is Strange: Before the Storm,Deck Nine,Square Enix,0.77,1000000,"['Action', 'Adventure']"
+821,630,Alien Swarm,Valve,Valve,0.77,2000000,['Action']
+839,644930,They Are Billions,Numantian Games,Numantian Games,0.77,1000000,['Strategy']
+854,67370,The Darkness II,Digital Extremes,2K,0.77,1000000,['Action']
+879,71340,Sonic Generations Collection,Devil's Details,SEGA,0.77,1000000,['Action']
+896,750920,Shadow of the Tomb Raider: Definitive Edition,Eidos-MontrÃ©al,Square Enix,0.77,1000000,"['Action', 'Adventure']"
+907,774361,Blasphemous,The Game Kitchen,Team17 Digital Ltd,0.77,200000,"['Action', 'Adventure', 'Indie']"
+916,805550,Assetto Corsa Competizione,Kunos Simulazioni,505 Games,0.77,200000,"['Racing', 'Simulation', 'Sports', 'in Early Access']"
+924,815370,Green Hell,Creepy Jar,Creepy Jar,0.77,500000,"['Indie', 'Simulation', 'in Early Access']"
+974,952060,Resident Evil 3,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",0.77,1000000,['Action']
+12,1066780,Transport Fever 2,Urban Games,Good Shepherd Entertainment,0.76,200000,"['Simulation', 'Strategy']"
+42,115320,Prototype 2,Radical Entertainment,Activision,0.76,500000,"['Action', 'Adventure']"
+140,214950,Total War: ROME II - Emperor Edition,CREATIVE ASSEMBLY,SEGA,0.76,2000000,['Strategy']
+213,234650,Shadowrun Returns,Harebrained Schemes,Paradox Interactive,0.76,1000000,"['Adventure', 'Indie', 'RPG', 'Strategy']"
+250,24240,PAYDAY The Heist,OVERKILL Software,Daybreak Game Company,0.76,2000000,['Action']
+332,270880,American Truck Simulator,SCS Software,SCS Software,0.76,1000000,"['Indie', 'Simulation']"
+361,287390,Metro: Last Light Redux,4A Games,Deep Silver,0.76,2000000,['Action']
+386,2990,FlatOut 2,Bugbear Entertainment,Strategy First,0.76,200000,['Racing']
+399,304390,FOR HONOR,Ubisoft Montreal,Ubisoft,0.76,2000000,['Action']
+476,350080,Wolfenstein: The Old Blood,MachineGames,Bethesda Softworks,0.76,500000,['Action']
+479,35450,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,Tripwire Interactive,Tripwire Interactive,0.76,2000000,"['Action', 'Massively Multiplayer', 'Simulation']"
+527,379430,Kingdom Come: Deliverance,Warhorse Studios,Warhorse Studios,0.76,1000000,"['Action', 'Adventure', 'RPG']"
+571,395170,DISTRAINT: Deluxe Edition,Jesse Makkonen,Jesse Makkonen,0.76,2000000,"['Adventure', 'Casual', 'Indie']"
+576,397950,Clustertruck,Landfall,tinyBuild,0.76,200000,"['Action', 'Indie']"
+613,423230,Furi,The Game Bakers,The Game Bakers,0.76,500000,['Action']
+671,464920,Surviving Mars,Haemimont Games,Paradox Interactive,0.76,500000,"['Simulation', 'Strategy']"
+719,50300,Spec Ops: The Line,YAGER,2K,0.76,2000000,"['Action', 'Adventure']"
+785,583950,Artifact,Valve,Valve,0.76,1000000,['Strategy']
+932,841370,NBA 2K19,Visual Concepts,2K,0.76,500000,"['Simulation', 'Sports']"
+942,859580,Imperator: Rome,Paradox Development Studio,Paradox Interactive,0.76,500000,"['Simulation', 'Strategy']"
+100,20510,S.T.A.L.K.E.R.: Clear Sky,GSC Game World,GSC World Publishing,0.75,500000,"['Action', 'RPG']"
+120,209870,Blacklight: Retribution,"Hardsuit Labs, Inc.","Hardsuit Labs, Inc.",0.75,2000000,"['Action', 'Free to Play']"
+129,212070,Star Conflict,Star Gem Inc.,Gaijin Distribution KFT,0.75,2000000,"['Action', 'Free to Play', 'Massively Multiplayer', 'Simulation']"
+147,218680,Scribblenauts Unlimited,5th Cell Media,Warner Bros. Interactive Entertainment,0.75,1000000,"['Adventure', 'Casual', 'Strategy']"
+201,232090,Killing Floor 2,Tripwire Interactive,Tripwire Interactive,0.75,2000000,"['Action', 'in Early Access']"
+209,233860,Kenshi,Lo-Fi Games,Lo-Fi Games,0.75,1000000,"['Action', 'Indie', 'RPG', 'Simulation', 'Strategy', 'in Early Access']"
+265,245620,Tropico 5,Haemimont Games,Kalypso Media Digital,0.75,1000000,"['RPG', 'Simulation', 'Strategy']"
+307,261640,Borderlands: The Pre-Sequel,2K Australia,2K,0.75,2000000,"['Action', 'RPG']"
+371,290340,Armello,League of Geeks,League of Geeks,0.75,500000,"['Adventure', 'Indie', 'RPG', 'Strategy', 'in Early Access']"
+600,414700,Outlast 2,Red Barrels,Red Barrels,0.75,1000000,"['Action', 'Adventure', 'Indie']"
+626,42960,Victoria II,Paradox Development Studio,Paradox Interactive,0.75,500000,['Strategy']
+670,464060,RUINER,Reikon Games,Devolver Digital,0.75,500000,"['Action', 'Indie']"
+678,473690,Absolver,Sloclap,Devolver Digital,0.75,200000,"['Action', 'Adventure', 'Indie']"
+681,475550,Beholder,Warm Lamp Games,Alawar Premium,0.75,500000,"['Adventure', 'Indie', 'Strategy']"
+707,493900,Dungeons 3,Realmforge Studios,Kalypso Media,0.75,200000,"['Simulation', 'Strategy']"
+836,641990,The Escapists 2,Team17 Digital Ltd,Team17 Digital Ltd,0.75,1000000,"['Indie', 'Simulation', 'Strategy']"
+975,953490,CARRION,Phobia Game Studio,Devolver Digital,0.75,200000,"['Action', 'Adventure', 'Indie']"
+15,107410,Arma 3,Bohemia Interactive,Bohemia Interactive,0.74,5000000,"['Action', 'Simulation', 'Strategy', 'in Early Access']"
+21,1089350,NBA 2K20,Visual Concepts,2K,0.74,5000000,"['Simulation', 'Sports']"
+24,109600,Neverwinter,Cryptic Studios,Perfect World Entertainment,0.74,5000000,"['Adventure', 'Free to Play', 'Massively Multiplayer', 'RPG']"
+88,202970,Call of Duty: Black Ops II,Treyarch,Activision,0.74,2000000,['Action']
+95,204340,Serious Sam 2,Croteam,Devolver Digital,0.74,1000000,"['Action', 'Indie']"
+115,209000,Batman: Arkham Origins,WB Games Montreal,Warner Bros. Interactive Entertainment,0.74,2000000,"['Action', 'Adventure']"
+124,21100,F.E.A.R. 3,Day 1 Studios,Warner Bros. Interactive Entertainment,0.74,1000000,['Action']
+135,214340,Deponia,Daedalic Entertainment,Daedalic Entertainment,0.74,1000000,"['Adventure', 'Indie']"
+166,222880,Insurgency,New World Interactive,New World Interactive,0.74,2000000,"['Action', 'Indie', 'Strategy']"
+184,225540,Just Cause 3,Avalanche Studios,Square Enix,0.74,2000000,"['Action', 'Adventure']"
+411,311560,Assassinâ€™s Creed Rogue,Ubisoft Sofia,Ubisoft,0.74,500000,"['Action', 'Adventure']"
+511,368230,Kingdom: Classic,Noio,Raw Fury,0.74,1000000,"['Indie', 'Simulation', 'Strategy']"
+515,368500,Assassin's Creed Syndicate,"Ubisoft Quebec, in collaboration with Ubisoft Annecy, Bucharest, Kiev, Montreal, Montpellier, Shanghai, Singapore, Sofia, Toronto studios",Ubisoft,0.74,500000,"['Action', 'Adventure']"
+516,371660,Far Cry Primal,Ubisoft,Ubisoft,0.74,500000,"['Action', 'Adventure']"
+625,42910,Magicka,Arrowhead Game Studios,Paradox Interactive,0.74,2000000,"['Action', 'RPG']"
+700,489830,The Elder Scrolls V: Skyrim Special Edition,Bethesda Game Studios,Bethesda Softworks,0.74,2000000,['RPG']
+746,544920,Darwin Project,Scavengers Studio,Scavengers Studio,0.74,500000,"['Action', 'Free to Play', 'Indie', 'in Early Access']"
+754,55150,"Warhammer 40,000: Space Marine",Relic Entertainment,SEGA,0.74,2000000,['Action']
+803,606150,Moonlighter,Digital Sun,11 bit studios,0.74,500000,"['Action', 'Adventure', 'Indie']"
+204,233130,Shadow Warrior,Flying Wild Hog,Devolver Digital,0.73,2000000,"['Action', 'Adventure']"
+211,234140,Mad Max,Avalanche Studios,Warner Bros. Interactive Entertainment,0.73,2000000,"['Action', 'Adventure']"
+256,242920,Banished,Shining Rock Software LLC,Shining Rock Software LLC,0.73,1000000,"['Indie', 'Simulation', 'Strategy']"
+315,265300,Lords Of The Fallen,CI Games,CI Games,0.73,500000,"['Action', 'RPG']"
+342,278360,A Story About My Uncle,Gone North Games,Coffee Stain Publishing,0.73,5000000,"['Adventure', 'Casual', 'Indie']"
+365,288160,The Room,Fireproof Games,Fireproof Games,0.73,500000,"['Adventure', 'Indie']"
+378,292730,Call of Duty: Infinite Warfare,Infinity Ward,Activision,0.73,500000,"['Action', 'Adventure']"
+409,311210,Call of Duty: Black Ops III,Treyarch,Activision,0.73,2000000,"['Action', 'Adventure']"
+462,33930,Arma 2: Operation Arrowhead,Bohemia Interactive,Bohemia Interactive,0.73,2000000,"['Action', 'Simulation', 'Strategy']"
+506,367450,Poly Bridge,Dry Cactus,Dry Cactus,0.73,500000,"['Indie', 'Simulation', 'in Early Access']"
+567,394310,Punch Club,Lazy Bear Games,tinyBuild,0.73,500000,"['Indie', 'RPG', 'Strategy']"
+742,535230,Domina,DolphinBarn,DolphinBarn,0.73,200000,"['Action', 'Indie', 'Simulation', 'Strategy']"
+749,548570,RAGE 2,id Software,Bethesda Softworks,0.73,200000,['Action']
+784,582660,Black Desert Online,Pearl Abyss,Kakao Games Europe B.V.,0.73,5000000,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Simulation', 'Strategy']"
+834,640820,Pathfinder: Kingmaker - Enhanced Plus Edition,Owlcat Games,Deep Silver,0.73,500000,['RPG']
+851,666140,My Time At Portia,Pathea Games,Team17 Digital Ltd,0.73,500000,"['Adventure', 'Casual', 'Indie', 'RPG', 'Simulation', 'in Early Access']"
+876,706220,Black Desert Online SA,Pearl Abyss,RedFox Games,0.73,"20,000","['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Simulation', 'Strategy']"
+893,743450,Monster Prom,Beautiful Glitch,Those Awesome Guys,0.73,200000,"['Indie', 'Simulation']"
+912,787860,Farming Simulator 19,Giants Software,Focus Home Interactive,0.73,500000,['Simulation']
+939,851850,DRAGON BALL Z: KAKAROT,CyberConnect2 Co. Ltd.,BANDAI NAMCO Entertainment,0.73,500000,"['Action', 'RPG']"
+54,12200,Bully: Scholarship Edition,Rockstar New England,Rockstar Games,0.72,1000000,"['Action', 'Adventure']"
+58,1222680,Need for Speed Heat,Ghost Games,Electronic Arts,0.72,500000,"['Action', 'Adventure', 'Racing', 'Sports']"
+60,1250,Killing Floor,Tripwire Interactive,Tripwire Interactive,0.72,2000000,['Action']
+109,208090,Loadout,Edge of Reality,Edge of Reality,0.72,5000000,"['Action', 'Free to Play', 'Indie']"
+141,215530,The Incredible Adventures of Van Helsing,NeocoreGames,NeocoreGames,0.72,1000000,"['Action', 'Adventure', 'Indie', 'RPG']"
+248,24200,DC Universe Online,Dimensional Ink Games,Daybreak Game Company,0.72,2000000,"['Action', 'Adventure', 'Free to Play', 'Massively Multiplayer', 'RPG']"
+351,282900,Hyperdimension Neptunia Re;Birth1,"IDEA FACTORY Co., Ltd.","Idea Factory International, Inc.",0.72,200000,"['RPG', 'Strategy']"
+387,299360,Block N Load,Toadman Interactive,Toadman Interactive,0.72,2000000,"['Action', 'Free to Play', 'Massively Multiplayer', 'Strategy']"
+392,301640,Zombie Army Trilogy,Rebellion,Rebellion,0.72,500000,['Action']
+519,374040,Portal Knights,Keen Games,505 Games,0.72,500000,"['Action', 'Adventure', 'RPG', 'in Early Access']"
+561,391720,Layers of Fear,Bloober Team SA,Aspyr,0.72,2000000,"['Adventure', 'Indie', 'in Early Access']"
+592,41070,Serious Sam 3: BFE,Croteam,Devolver Digital,0.72,2000000,"['Action', 'Indie']"
+620,427290,Vampyr,DONTNOD Entertainment,Focus Home Interactive,0.72,200000,"['Action', 'RPG']"
+657,449960,Book of Demons,Thing Trunk,Thing Trunk,0.72,500000,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG', 'in Early Access']"
+666,460920,Steep,Ubisoft Annecy,Ubisoft,0.72,1000000,"['Action', 'Sports']"
+805,606880,GreedFall,Spiders,Focus Home Interactive,0.72,200000,['RPG']
+902,761890,Albion Online,Sandbox Interactive GmbH,Sandbox Interactive GmbH,0.72,1000000,"['Free to Play', 'Massively Multiplayer', 'RPG']"
+927,823500,BONEWORKS,Stress Level Zero,Stress Level Zero,0.72,500000,"['Action', 'Adventure', 'Indie', 'Simulation']"
+967,942970,Unheard,NEXT Studios,NEXT Studios,0.72,500000,"['Indie', 'RPG', 'Simulation']"
+972,9480,Saints Row 2,Volition,Deep Silver,0.72,2000000,['Action']
+67,130,Half-Life: Blue Shift,Gearbox Software,Valve,0.71,5000000,['Action']
+208,233720,Surgeon Simulator,Bossa Studios,Bossa Studios,0.71,1000000,"['Action', 'Indie', 'Simulation']"
+245,241560,The Crew,Ivory Tower in collaboration with Ubisoft Reflections,Ubisoft,0.71,200000,"['Action', 'Massively Multiplayer', 'Racing']"
+341,278080,DYNASTY WARRIORS 8: Xtreme Legends Complete Edition,"KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",0.71,500000,['Action']
+385,298630,The Escapists,Mouldy Toof Studios,Team17 Digital Ltd,0.71,1000000,"['Action', 'Adventure', 'Indie', 'Simulation', 'Strategy']"
+415,31280,Poker Night at the Inventory,Telltale Games,Soldak Entertainment,0.71,1000000,"['Casual', 'Sports']"
+467,341800,Keep Talking and Nobody Explodes,Steel Crate Games,Steel Crate Games,0.71,500000,['Indie']
+531,381210,Dead by Daylight,Behaviour Interactive Inc.,Behaviour Interactive Inc.,0.71,5000000,['Action']
+651,446800,Transport Fever,Urban Games,Good Shepherd Entertainment,0.71,500000,['Simulation']
+861,678960,CODE VEIN,BANDAI NAMCO Studios,BANDAI NAMCO Entertainment,0.71,500000,"['Action', 'RPG']"
+237,239160,Thief,Eidos-MontrÃ©al,Square Enix,0.7,1000000,"['Action', 'Adventure']"
+255,242860,Verdun,M2H,M2H,0.7,1000000,"['Action', 'Indie', 'Massively Multiplayer', 'Simulation', 'Strategy', 'in Early Access']"
+471,346110,ARK: Survival Evolved,Studio Wildcard,Studio Wildcard,0.7,5000000,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG', 'in Early Access']"
+495,362680,Fran Bow,Killmonday Games AB,Killmonday Games AB,0.7,200000,"['Adventure', 'Indie']"
+631,433850,Z1 Battle Royale,Daybreak Game Company,Daybreak Game Company,0.7,10000000000,"['Action', 'Adventure', 'Free to Play', 'Massively Multiplayer', 'in Early Access']"
+684,477160,Human: Fall Flat,No Brakes Games,Curve Digital,0.7,5000000,"['Adventure', 'Indie']"
+711,49600,Beat Hazard,Cold Beam Games,Cold Beam Games,0.7,500000,"['Action', 'Casual', 'Indie']"
+753,55100,Homefront,Kaos Studios,Deep Silver,0.7,2000000,['Action']
+804,606280,Darksiders III,Gunfire Games,THQ Nordic,0.7,200000,"['Action', 'Adventure', 'RPG']"
+158,221040,Resident Evil 6,Capcom,Capcom,0.69,1000000,"['Action', 'Adventure']"
+177,224480,Octodad: Dadliest Catch,Young Horses,Young Horses,0.69,500000,"['Action', 'Adventure', 'Indie']"
+198,230410,Warframe,Digital Extremes,Digital Extremes,0.69,20000000,"['Action', 'Free to Play']"
+289,252490,Rust,Facepunch Studios,Facepunch Studios,0.69,10000000000,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG', 'in Early Access']"
+491,360170,How to Survive 2,Eko Software,505 Games,0.69,500000,"['Action', 'Adventure', 'RPG', 'in Early Access']"
+573,397340,SimplePlanes,"Jundroo, LLC","Jundroo, LLC",0.69,500000,"['Indie', 'Simulation']"
+652,447020,Farming Simulator 17,Giants Software,Giants Software,0.69,500000,['Simulation']
+709,495420,State of Decay 2: Juggernaut Edition,Undead Labs,Xbox Game Studios,0.69,500000,"['Action', 'RPG', 'Simulation']"
+794,599140,Graveyard Keeper,Lazy Bear Games,tinyBuild,0.69,500000,"['Adventure', 'Indie', 'RPG', 'Simulation']"
+843,648350,Jurassic World Evolution,Frontier Developments,Frontier Developments,0.69,1000000,"['Simulation', 'Strategy']"
+13,10680,Aliens vs. Predator,Rebellion,SEGA,0.68,1000000,['Action']
+117,209160,Call of Duty: Ghosts,Infinity Ward,Activision,0.68,1000000,['Action']
+160,221260,Little Inferno,Tomorrow Corporation,Tomorrow Corporation,0.68,500000,"['Adventure', 'Casual', 'Indie']"
+161,221380,Age of Empires II (2013),Skybox Labs,Xbox Game Studios,0.68,5000000,['Strategy']
+210,233980,UnEpic,@unepic_fran,@unepic_fran,0.68,200000,"['Action', 'Indie', 'RPG']"
+239,239820,Game Dev Tycoon,Greenheart Games,Greenheart Games,0.68,1000000,"['Casual', 'Indie', 'Simulation', 'Strategy']"
+260,244450,Men of War: Assault Squad 2,Digitalmindsoft,1C Entertainment,0.68,1000000,"['Action', 'Simulation', 'Strategy']"
+323,268050,The Evil Within,Tango Gameworks,Bethesda Softworks,0.68,1000000,['Action']
+427,320300,Car Mechanic Simulator 2015,Red Dot Games,PlayWay S.A.,0.68,500000,"['Racing', 'Simulation']"
+642,440900,Conan Exiles,Funcom,Funcom,0.68,1000000,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Simulation', 'Strategy']"
+674,469820,Genital Jousting,Free Lives,Devolver Digital,0.68,200000,"['Action', 'Indie', 'in Early Access']"
+697,48720,Mount & Blade: With Fire & Sword,TaleWorlds Entertainment,TaleWorlds Entertainment,0.68,1000000,"['Action', 'RPG']"
+720,503560,911 Operator,Jutsu Games,Games Operators,0.68,500000,"['Casual', 'Indie', 'Simulation', 'Strategy']"
+731,517630,Just Cause 4 Reloaded,Avalanche Studios,Square Enix,0.68,500000,"['Action', 'Adventure']"
+810,613100,House Flipper,Empyrean,Frozen District,0.68,1000000,"['Indie', 'Simulation']"
+287,251990,Long Live The Queen,Hanako Games,Hanako Games,0.67,200000,"['Indie', 'RPG', 'Simulation', 'Strategy']"
+311,263280,Spintires: The Original Game,OoveeÂ® Game Studios,OoveeÂ® Game Studios,0.67,1000000,"['Adventure', 'Casual', 'Indie', 'Racing', 'Simulation']"
+593,411300,ELEX,Piranha Bytes,THQ Nordic,0.67,500000,"['Action', 'Adventure', 'RPG']"
+738,527430,"Warhammer 40,000: Inquisitor - Martyr",NeocoreGames,NeocoreGames,0.67,200000,"['Action', 'Adventure', 'Indie', 'RPG', 'in Early Access']"
+914,794260,Outward,Nine Dots Studio,Deep Silver,0.67,200000,['RPG']
+321,266840,Age of Mythology: Extended Edition,SkyBox Labs,Xbox Game Studios,0.66,1000000,"['Simulation', 'Strategy']"
+441,327410,A Bird Story,Freebird Games,Freebird Games,0.66,200000,"['Adventure', 'Indie', 'RPG']"
+442,32800,Lord of the Rings: War in the North,Snowblind Studios,Warner Bros. Interactive Entertainment,0.66,1000000,"['Action', 'RPG']"
+679,474960,Quantum Break,Remedy Entertainment,Xbox Game Studios,0.66,1000000,['Action']
+825,633230,NARUTO TO BORUTO: SHINOBI STRIKER,Soleil Ltd.,BANDAI NAMCO Entertainment,0.66,500000,['Action']
+826,63380,Sniper Elite V2,Rebellion,Rebellion,0.66,1000000,['Action']
+849,65930,The Bureau: XCOM Declassified,2K Marin,2K,0.66,2000000,['Action']
+991,9900,Star Trek Online,Cryptic Studios,Perfect World Entertainment,0.66,2000000,"['Free to Play', 'Massively Multiplayer', 'RPG']"
+194,228300,Remember Me,DONTNOD Entertainment,Capcom,0.65,500000,"['Action', 'Adventure']"
+203,232890,Stronghold Crusader 2,FireFly Studios,FireFly Studios,0.65,1000000,"['Simulation', 'Strategy']"
+339,274940,Depth,Digital Confectioners,Digital Confectioners,0.65,1000000,"['Action', 'Indie']"
+383,297000,Heroes of Might & Magic III - HD Edition,Dotemu,Ubisoft Entertainment,0.65,1000000,"['RPG', 'Strategy']"
+915,80,Counter-Strike: Condition Zero,Valve,Valve,0.65,5000000,['Action']
+116,209080,Guns of Icarus Online,Muse Games,Muse Games,0.64,2000000,"['Action', 'Adventure', 'Indie', 'Simulation']"
+179,224600,Defiance,Trion Worlds,Trion Worlds,0.64,2000000,"['Action', 'Free to Play', 'Massively Multiplayer', 'RPG']"
+418,313160,Farming Simulator 15,Giants Software,Giants Software,0.64,500000,['Simulation']
+835,641320,Cooking Simulator,Big Cheese Studio,PlayWay S.A.,0.64,200000,"['Casual', 'Indie', 'Simulation']"
+998,99900,Spiral Knights,"Grey Havens, LLC","Grey Havens, LLC",0.64,2000000,"['Action', 'Adventure', 'Casual', 'Free to Play', 'Indie', 'Massively Multiplayer', 'RPG']"
+370,290080,Life is Feudal: Your Own,Bitbox Ltd.,Bitbox Ltd.,0.63,200000,"['Action', 'Indie', 'RPG', 'Simulation', 'in Early Access']"
+454,333930,Dirty Bomb,Splash Damage,Warchest Ltd.,0.63,5000000,"['Action', 'Free to Play']"
+787,588430,Fallout Shelter,Bethesda Game Studios,Bethesda Softworks,0.63,5000000,"['Free to Play', 'RPG', 'Simulation']"
+232,238430,Contagion,"Monochrome, Inc","Monochrome, Inc",0.62,1000000,"['Action', 'Adventure', 'Indie']"
+318,265930,Goat Simulator,Coffee Stain Studios,Coffee Stain Publishing,0.62,2000000,"['Casual', 'Indie', 'Simulation']"
+372,291480,Warface,MY.GAMES,MY.GAMES,0.62,10000000000,"['Action', 'Free to Play', 'Massively Multiplayer']"
+451,332800,Five Nights at Freddy's 2,Scott Cawthon,Scott Cawthon,0.62,500000,['Indie']
+492,360430,Mafia III: Definitive Edition,Hangar 13,2K,0.62,1000000,"['Action', 'Adventure']"
+340,275850,No Man's Sky,Hello Games,Hello Games,0.61,2000000,"['Action', 'Adventure']"
+393,302510,Ryse: Son of Rome,Crytek,Crytek,0.61,1000000,['Action']
+640,438740,Friday the 13th: The Game,IllFonic,Gun Media,0.61,1000000,['Action']
+817,626690,Sword Art Online: Fatal Bullet,DIMPS,BANDAI NAMCO Entertainment,0.61,500000,"['Action', 'RPG']"
+281,250400,How to Survive,Eko Software,505 Games,0.6,1000000,"['Action', 'Adventure', 'RPG']"
+616,424370,Wolcen: Lords of Mayhem,WOLCEN Studio,WOLCEN Studio,0.6,2000000,"['Action', 'Adventure', 'Indie', 'RPG']"
+146,218640,Lucius,Shiver Games,Shiver Games,0.59,500000,"['Action', 'Adventure', 'Indie']"
+171,223470,POSTAL 2,Running With Scissors,Running With Scissors,0.59,2000000,"['Action', 'Adventure', 'Indie']"
+206,233290,Murdered: Soul Suspect,Airtight Games,Square Enix,0.59,500000,"['Action', 'Adventure', 'RPG']"
+271,247730,Nether: Resurrected,"Nether Productions, LLC","Nether Productions, LLC",0.57,500000,"['Action', 'Indie', 'Massively Multiplayer', 'RPG', 'Simulation']"
+983,962730,Skater XL - The Ultimate Skateboarding Game,Easy Day Studios Pty Ltd,Easy Day Studios Pty Ltd,0.56,200000,"['Action', 'Indie', 'Simulation', 'Sports', 'in Early Access']"
+168,223100,Homefront: The Revolution,Dambuster Studios,Deep Silver,0.54,500000,"['Action', 'Adventure']"
+870,70000,Dino D-Day,800 North and Digital Ranch,800 North and Digital Ranch,0.53,1000000,"['Action', 'Indie']"
+473,34870,Sniper: Ghost Warrior 2,City Interactive,CI Games,0.52,1000000,['Action']
+549,388090,Five Nights at Freddy's 4,Scott Cawthon,Scott Cawthon,0.51,200000,"['Action', 'Indie', 'Strategy']"
+522,375950,Viridi,Zoe Vartanian,Ice Water Games,0.46,500000,"['Casual', 'Free to Play', 'Indie', 'Simulation']"
+468,341940,Hatred,Destructive Creations,Destructive Creations,0.43,200000,"['Action', 'Indie']"
+3,1022450,War Selection,Glyph Worlds,Glyph Worlds,0,500000,"['Free to Play', 'Indie', 'Massively Multiplayer', 'Strategy', 'Early Access']"
+6,1046930,Dota Underlords,Valve,Valve,0,5000000,"['Casual', 'Free to Play', 'Strategy', 'in Early Access']"
+7,104900,ORION: Prelude,Spiral Game Studios,DANKIE,0,2000000,"['Action', 'Adventure', 'Indie', 'RPG']"
+16,1080110,F1 2020,Codemasters,Codemasters,0,200000,"['Racing', 'Simulation', 'Sports']"
+18,108600,Project Zomboid,The Indie Stone,The Indie Stone,0,1000000,"['Indie', 'RPG', 'Simulation', 'Early Access']"
+20,108800,Crysis 2 - Maximum Edition,Crytek Studios,Electronic Arts,0,1000000,['Action']
+22,1089980,The Henry Stickmin Collection,PuffballsUnited,Innersloth,0,200000,"['Adventure', 'Casual', 'Indie']"
+23,1094520, Sands of Salzaar,Han-Squirrel Studio,X.D. Network Inc.,0,500000,"['Adventure', 'Indie', 'RPG', 'Strategy', 'Early Access']"
+28,11020,TrackMania Nations Forever,Nadeo,Ubisoft,0,2000000,['Racing']
+31,1113000,Persona 4 Golden,ATLUS,SEGA,0,500000,['RPG']
+32,1118200,People Playground,mestiez,Studio Minus,0,200000,"['Casual', 'Indie', 'Simulation']"
+33,1121910,"I Love You, Colonel Sanders! A Finger Lickinâ€™ Good Dating Simulator",Psyop,KFC,0,200000,"['Casual', 'Indie', 'Simulation']"
+34,1128000,Cube World,Picroma,Picroma,0,200000,"['Adventure', 'Indie', 'RPG']"
+37,113400,APB Reloaded,Little Orbit,Little Orbit,0,5000000,"['Action', 'Free to Play', 'Massively Multiplayer']"
+38,1145360,Hades,Supergiant Games,Supergiant Games,0,500000,"['Action', 'Indie', 'RPG', 'Early Access']"
+39,1147560,Skul: The Hero Slayer,SouthPAW Games,NEOWIZ,0,200000,"['Action', 'Indie', 'Early Access']"
+40,1151340,Fallout 76,Bethesda Game Studios,Bethesda Softworks,0,500000,['RPG']
+41,1151640,Horizon Zero Dawn Complete Edition,Guerrilla,"PlayStation Mobile, Inc.",0,200000,"['Action', 'Adventure', 'RPG']"
+45,1172620,Sea of Thieves,Rare Ltd,Xbox Game Studios,0,2000000,"['Action', 'Adventure']"
+47,1189630,Path Of Wuxia,Heluo Studio,Japanese,0,500000,"['Indie', 'RPG', 'Early Access']"
+52,1213210,Command & Conquer Remastered Collection,Petroglyph,Electronic Arts,0,1000000,['Strategy']
+53,1217060,Gunfire Reborn,Duoyi (Hong Kong) Interactive Entertainment Limited,Duoyi (Hong Kong) Interactive Entertainment Limited,0,1000000,"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']"
+56,12220,Grand Theft Auto: Episodes from Liberty City,Rockstar North / Toronto,Rockstar Games,0,1000000,['Action']
+61,1250410,Microsoft Flight Simulator,Asobo Studio,Xbox Game Studios,0,200000,['Simulation']
+65,1289310,Helltaker,vanripper,vanripper,0,1000000,"['Adventure', 'Free to Play', 'Indie']"
+91,203290,America's Army: Proving Grounds,U.S. Army,U.S. Army,0,2000000,"['Action', 'Free to Play']"
+96,204360,Castle Crashers,The Behemoth,The Behemoth,0,5000000,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG']"
+103,206210,Gotham City Impostors Free to Play,"Monolith Productions, Inc.",Warner Bros. Interactive Entertainment,0,2000000,"['Action', 'Free to Play']"
+106,206500,AirMech Strike,Carbon Games,Carbon Games,0,1000000,"['Action', 'Free to Play', 'Indie', 'Strategy', 'in Early Access']"
+113,208650,Batman: Arkham Knight,Rocksteady Studios,Warner Bros. Interactive Entertainment,0,2000000,"['Action', 'Adventure']"
+127,211500,RaceRoom Racing Experience,Sector3 Studios,Sector3 Studios,0,1000000,"['Free to Play', 'Racing', 'Simulation', 'Sports']"
+130,212480,Sonic & All-Stars Racing Transformed Collection,Sumo Digital,SEGA,0,500000,"['Racing', 'Sports']"
+133,213610,Sonic Adventure 2,SEGA,SEGA,0,500000,['Action']
+134,213670,South Park: The Stick of Truth,Obsidian Entertainment,Ubisoft,0,2000000,"['Action', 'Adventure', 'RPG']"
+136,214420,Gear Up,Doctor Entertainment AB,Doctor Entertainment AB,0,200000,"['Action', 'Free to Play', 'Indie', 'in Early Access']"
+159,221100,DayZ,Bohemia Interactive,Bohemia Interactive,0,2000000,"['Action', 'Adventure', 'Massively Multiplayer']"
+163,221680,Rocksmith 2014 Edition - Remastered,Ubisoft - San Francisco,Ubisoft,0,500000,"['Casual', 'Simulation']"
+173,223710,Cry of Fear,Team Psykskallar,Team Psykskallar,0,2000000,"['Action', 'Adventure', 'Indie']"
+174,223750,DCS World Steam Edition,Eagle Dynamics SA,The Fighter Collection,0,2000000,"['Free to Play', 'Simulation']"
+176,224260,No More Room in Hell,No More Room in Hell Team,Lever Games,0,5000000,"['Action', 'Free to Play', 'Indie']"
+178,224540,Ace of Spades: Battle Builder,Jagex Limited,Jagex,0,1000000,"['Action', 'Indie']"
+185,225840,Sven Co-op,Sven Co-op team,Sven Co-op team,0,2000000,"['Action', 'Casual', 'Free to Play', 'Indie']"
+186,226700,Infestation: Survivor Stories Classic,OP Productions LLC,OP Productions LLC,0,500000,"['Action', 'Indie', 'Massively Multiplayer', 'RPG', 'Simulation']"
+190,227940,Heroes & Generals,RETO MOTO,RETO MOTO,0,10000000000,"['Action', 'Free to Play', 'Indie', 'Massively Multiplayer', 'Strategy', 'in Early Access']"
+191,2280,Ultimate Doom,id Software,id Software,0,500000,['Action']
+197,230290,Universe Sandbox,Giant Army,Giant Army,0,500000,"['Casual', 'Indie', 'Simulation', 'Early Access']"
+217,235600,Tom Clancyâ€™s Splinter Cell Blacklist,Ubisoft Toronto,Ubisoft,0,500000,"['Action', 'Adventure']"
+218,236090,Dust: An Elysian Tail,Humble Hearts LLC,Xbox Game Studios,0,1000000,"['Action', 'Adventure', 'Indie', 'RPG']"
+219,236110,Dungeon Defenders II,Trendy Entertainment,Trendy Entertainment,0,1000000,"['Action', 'Free to Play', 'Indie', 'RPG', 'Strategy', 'in Early Access']"
+222,236450,PAC-MAN Championship Edition DX+,"Mine Loader Software Co., Ltd.",BANDAI NAMCO Entertainment,0,200000,['Action']
+224,236870,HITMAN,IO Interactive A/S,IO Interactive A/S,0,2000000,['Action']
+229,238090,Sniper Elite 3,Rebellion,Rebellion,0,1000000,"['Action', 'Adventure']"
+231,238370,Magicka 2,Pieces Interactive,Paradox Interactive,0,1000000,"['Action', 'Adventure']"
+241,24010,Train Simulator 2020,Dovetail Games,Dovetail Games - Trains,0,1000000,['Simulation']
+242,240720,Getting Over It with Bennett Foddy,Bennett Foddy,Bennett Foddy,0,1000000,['Action']
+249,242050,Assassinâ€™s Creed IV Black Flag,Ubisoft Montreal,Ubisoft,0,1000000,"['Action', 'Adventure']"
+253,242720,GunZ 2: The Second Duel,"Masangsoft, Inc.","Masangsoft, Inc.",0,2000000,"['Action', 'Free to Play', 'Indie']"
+261,244850,Space Engineers,Keen Software House,Keen Software House,0,2000000,"['Action', 'Indie', 'Simulation', 'Strategy', 'in Early Access']"
+262,244930,SNOW,Poppermost Productions,Crytek,0,1000000,"['Free to Play', 'Indie', 'Simulation', 'Sports', 'in Early Access']"
+266,246420,Kingdom Rush - Tower Defense,Ironhide Game Studio,Ironhide Game Studio,0,500000,"['Action', 'Indie', 'Strategy']"
+267,246620,Plague Inc: Evolved,Ndemic Creations,Ndemic Creations,0,2000000,"['Casual', 'Indie', 'Simulation', 'Strategy', 'in Early Access']"
+268,246900,Viscera Cleanup Detail,RuneStorm,RuneStorm,0,500000,"['Indie', 'Simulation', 'in Early Access']"
+272,248390,Craft The World,Dekovir Entertainment,Black Maple Games,0,200000,"['Indie', 'RPG', 'Simulation', 'Strategy']"
+273,248570,Toribash,Nabi Studios,"Nicalis, Inc.",0,2000000,"['Action', 'Free to Play', 'Indie', 'Strategy']"
+282,250600,The Plan,Krillbite Studio,Krillbite Studio,0,500000,"['Casual', 'Free to Play', 'Indie']"
+284,250900,The Binding of Isaac: Rebirth,"Nicalis, Inc.","Nicalis, Inc.",0,2000000,['Action']
+286,251570,7 Days to Die,The Fun Pimps,The Fun Pimps Entertainment LLC,0,2000000,"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation', 'Strategy', 'Early Access']"
+288,252150,Grimm,Spicyhorse Games,Spicyhorse Games,0,1000000,"['Casual', 'Indie']"
+292,253250,Stonehearth,Radiant Entertainment,(none),0,200000,"['Indie', 'Simulation', 'Strategy']"
+293,253710,theHunter Classic,Expansive Worlds,Expansive Worlds,0,5000000,"['Action', 'Adventure', 'Free to Play', 'Simulation', 'Sports']"
+301,259080,Just Cause 2: Multiplayer Mod,Avalanche Studios,Square Enix,0,1000000,"['Action', 'Adventure']"
+303,260230,Valiant Hearts: The Great War / Soldats Inconnus : MÃ©moires de la Grande Guerre,Ubisoft Montpellier,Ubisoft,0,500000,['Adventure']
+305,261550,Mount & Blade II: Bannerlord,TaleWorlds Entertainment,TaleWorlds Entertainment,0,5000000,"['Action', 'RPG', 'Simulation', 'Strategy', 'Early Access']"
+310,262410,World of Guns: Gun Disassembly,Noble Empire Corp.,Noble Empire Corp.,0,2000000,"['Free to Play', 'Indie', 'Simulation']"
+312,263980,Out There Somewhere,MiniBoss,Senpai Studios,0,200000,"['Action', 'Adventure', 'Indie']"
+313,264200,One Finger Death Punch,Silver Dollar Games,Silver Dollar Games,0,500000,"['Action', 'Casual', 'Indie']"
+316,265550,Dead Rising 3 Apocalypse Edition,Capcom Game Studio Vancouver,Capcom,0,500000,['Action']
+317,265630,Fistful of Frags,Fistful of Frags Team,Fistful of Frags Team,0,2000000,"['Action', 'Free to Play', 'Indie']"
+319,266010,LYNE,Thomas Bowker,Thomas Bowker,0,200000,"['Casual', 'Indie']"
+324,268420,Aura Kingdom,X-Legend,Aeria Games,0,2000000,"['Adventure', 'Casual', 'Free to Play', 'Massively Multiplayer', 'RPG']"
+326,268650,From the Depths,Brilliant Skies Ltd.,Brilliant Skies Ltd.,0,200000,"['Action', 'Adventure', 'RPG', 'Simulation', 'Strategy', 'Early Access']"
+328,269210,Hero Siege,Elias Viglione,Panic Art Studios,0,1000000,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG']"
+329,269950,X-Plane 11,Laminar Research,Laminar Research,0,500000,['Simulation']
+331,270550,Yet Another Zombie Defense,Awesome Games Studio,Awesome Games Studio,0,1000000,"['Action', 'Casual', 'Indie', 'Strategy']"
+334,273110,Counter-Strike Nexon: Studio,"Valve Corporation, Nexon Korea Corporation",Nexon Korea Corporation,0,5000000,"['Action', 'Casual', 'Free to Play', 'Massively Multiplayer']"
+336,274170,Hotline Miami 2: Wrong Number,Dennaton Games,Devolver Digital,0,1000000,"['Action', 'Indie']"
+343,278970,Digger Online,DiggerWorld Ltd.,DiggerWorld Ltd.,0,200000,"['Action', 'Adventure']"
+344,280,Half-Life: Source,Valve,Valve,0,1000000,['Action']
+345,280790,Creativerse,Playful Corp.,Playful Corp.,0,2000000,"['Action', 'Adventure', 'Casual', 'Free to Play', 'Indie', 'Massively Multiplayer', 'RPG', 'Simulation', 'in Early Access']"
+349,282440,Quake Live,id Software,Bethesda Softworks,0,2000000,['Action']
+350,282800,100% Orange Juice,Orange_Juice,Fruitbat Factory,0,500000,"['Indie', 'Strategy']"
+353,284160,BeamNG.drive,BeamNG,BeamNG,0,1000000,"['Racing', 'Simulation', 'Early Access']"
+355,285900,Gang Beasts,Boneloaf,Boneloaf,0,1000000,"['Action', 'Adventure', 'Casual', 'Indie', 'in Early Access']"
+356,285920,TerraTech,Payload Studios,Payload Studios,0,200000,"['Action', 'Indie', 'in Early Access']"
+357,286160,Tabletop Simulator,Berserk Games,Berserk Games,0,2000000,"['Casual', 'Indie', 'RPG', 'Simulation', 'Strategy', 'in Early Access']"
+358,286690,Metro 2033 Redux,4A Games,Deep Silver,0,2000000,['Action']
+359,286940,S.K.I.L.L. - Special Force 2 (Shooter),"Dragonfly GF Co., LTD",Gameforge 4D GmbH,0,2000000,"['Action', 'Adventure', 'Free to Play', 'Sports', 'Strategy']"
+360,287290,Resident Evil Revelations 2,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",0,1000000,"['Action', 'Adventure']"
+366,288470,Fable Anniversary,Lionhead Studios,Xbox Game Studios,0,500000,['RPG']
+369,289650,Assassin's Creed Unity,Ubisoft,Ubisoft,0,1000000,"['Action', 'Adventure']"
+373,291550,Brawlhalla,Blue Mammoth Games,Ubisoft,0,20000000,"['Action', 'Free to Play', 'Indie', 'in Early Access']"
+377,292120,FINAL FANTASY XIII,Square Enix,Square Enix,0,500000,['RPG']
+380,294860,Valkyria Chronicles,SEGA,SEGA,0,500000,"['Action', 'RPG', 'Strategy']"
+381,295110,Just Survive,Daybreak Game Company,Daybreak Game Company,0,2000000,"['Action', 'Adventure', 'Massively Multiplayer']"
+382,296470,Mount Your Friends,Stegersaurus Software Inc.,Stegersaurus Software Inc.,0,500000,"['Indie', 'Simulation', 'Sports']"
+388,299740,Miscreated,Entrada Interactive LLC,Entrada Interactive LLC,0,500000,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG', 'Simulation', 'Strategy', 'in Early Access']"
+390,300380,Road Redemption,"EQ-Games , Pixel Dash Studios",Tripwire Interactive,0,500000,"['Action', 'Adventure', 'Indie', 'Racing', 'Simulation', 'in Early Access']"
+391,301520,Robocraft,Freejam,Freejam,0,10000000000,"['Action', 'Free to Play', 'Indie', 'Massively Multiplayer', 'RPG', 'Simulation', 'in Early Access']"
+394,302670,Call to Arms,Digitalmindsoft,Digitalmindsoft,0,500000,"['Action', 'Indie', 'Simulation', 'Strategy', 'in Early Access']"
+395,302830,BLOCKADE 3D,Novalink,Novalink,0,2000000,"['Action', 'Free to Play', 'Early Access']"
+396,303210,The Beginner's Guide,Everything Unlimited Ltd.,Everything Unlimited Ltd.,0,200000,"['Adventure', 'Indie']"
+397,304050,Trove,Trion Worlds,Trion Worlds,0,10000000000,"['Action', 'Adventure', 'Casual', 'Free to Play', 'Massively Multiplayer', 'RPG']"
+402,304930,Unturned,Smartly Dressed Games,Smartly Dressed Games,0,20000000,"['Action', 'Adventure', 'Casual', 'Free to Play', 'Indie', 'in Early Access']"
+403,305620,The Long Dark,Hinterland Studio Inc.,Hinterland Studio Inc.,0,1000000,"['Adventure', 'Indie', 'Simulation', 'Strategy', 'in Early Access']"
+404,306130,The Elder Scrolls Online,Zenimax Online Studios,Bethesda Softworks,0,2000000,"['Massively Multiplayer', 'RPG']"
+405,307690,Sleeping Dogs: Definitive Edition,United Front Games,Square Enix,0,1000000,"['Action', 'Adventure', 'Racing']"
+416,312990,The Expendabros,Free Lives,Devolver Digital,0,2000000,"['Action', 'Adventure', 'Free to Play', 'Indie']"
+417,313120,Stranded Deep,Beam Team Games,Beam Team Pty Ltd,0,500000,"['Adventure', 'Indie', 'Early Access']"
+419,313340,Mountain,David OReilly,Double Fine Presents,0,200000,"['Casual', 'Indie', 'RPG', 'Simulation']"
+420,314160,Microsoft Flight Simulator X: Steam Edition,Microsoft Game Studios,Xbox Game Studios,0,1000000,['Simulation']
+421,316010,Magic Duels,Stainless Games Ltd.,Wizards of the Coast LLC,0,2000000,"['Free to Play', 'Strategy']"
+422,317360,Double Action: Boogaloo,Double Action Factory,Double Action Factory,0,2000000,"['Action', 'Free to Play', 'Indie']"
+425,319630,Life is Strange - Episode 1,DONTNOD Entertainment,Square Enix,0,5000000,"['Action', 'Adventure']"
+426,320,Half-Life 2: Deathmatch,Valve,Valve,0,10000000000,['Action']
+428,322170,Geometry Dash,RobTop Games,RobTop Games,0,1000000,"['Action', 'Indie']"
+433,323470,DRAGON BALL XENOVERSE,DIMPS,BANDAI NAMCO Entertainment,0,500000,['Action']
+434,32370,STAR WARS - Knights of the Old Republic,BioWare,LucasArts,0,1000000,"['Adventure', 'RPG']"
+437,32470,STAR WARS Empire at War - Gold Pack,Petroglyph,LucasArts,0,1000000,['Strategy']
+440,326460,ShellShock Live,kChamp Games,kChamp Games,0,500000,"['Action', 'Casual', 'Indie', 'Massively Multiplayer', 'Strategy', 'in Early Access']"
+443,329050,Devil May Cry 4 Special Edition,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",0,500000,['Action']
+444,329430,State of Decay: YOSE,Undead Labs,Xbox Game Studios,0,500000,"['Action', 'RPG', 'Simulation']"
+446,330830,Tales from the Borderlands,Telltale Games,Telltale Games,0,1000000,['Adventure']
+447,330840,Game of Thrones - A Telltale Games Series,Telltale Games,Telltale Games,0,500000,['Adventure']
+448,331470,Everlasting Summer,Soviet Games,Soviet Games,0,1000000,"['Adventure', 'Casual', 'Free to Play', 'Indie']"
+450,332310,LEGO Worlds,TT Games,Warner Bros. Interactive Entertainment,0,500000,"['Adventure', 'in Early Access']"
+452,333420,Cossacks 3,GSC Game World,GSC Game World,0,200000,['Strategy']
+453,333600,NEKOPARA Vol. 1,NEKO WORKs,Sekai Project,0,500000,"['Casual', 'Indie']"
+455,334230,Town of Salem,BlankMediaGames,BlankMediaGames,0,1000000,"['Indie', 'RPG', 'Strategy']"
+456,335240,Transformice,Atelier 801,Atelier 801,0,2000000,"['Free to Play', 'Indie', 'Massively Multiplayer']"
+460,337320,Paint the Town Red,South East Games,South East Games,0,500000,"['Action', 'Indie', 'Early Access']"
+463,339610,Freestyle 2: Street Basketball,JOYCITY,JOYCITY,0,2000000,"['Action', 'Casual', 'Free to Play', 'Massively Multiplayer', 'Sports']"
+464,339800,HuniePop,HuniePot,HuniePot,0,500000,"['Indie', 'RPG', 'Simulation', 'Strategy']"
+465,340,Half-Life 2: Lost Coast,Valve,Valve,0,10000000000,['Action']
+469,344760,Reign Of Kings,Code}{atch,Code}{atch,0,200000,"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation', 'in Early Access']"
+470,346010,Besiege,Spiderling Studios,Spiderling Studios,0,2000000,"['Indie', 'Simulation', 'in Early Access']"
+472,346900,AdVenture Capitalist,Hyper Hippo Games,Hyper Hippo Games,0,5000000,"['Casual', 'Free to Play', 'Indie']"
+474,34900,Bad Rats: the Rats' Revenge,Invent4 Entertainment,Strategy First,0,200000,['Indie']
+475,349040,NARUTO SHIPPUDEN: Ultimate Ninja STORM 4,CyberConnect2 Co. Ltd.,BANDAI NAMCO Entertainment,0,1000000,"['Action', 'Adventure']"
+478,351640,Eternal Senia,Sanctum Games,Sanctum Games,0,500000,"['Action', 'Free to Play', 'Indie', 'RPG']"
+480,355180,Codename CURE,Hoobalugalar_X,Hoobalugalar_X,0,2000000,"['Action', 'Free to Play', 'in Early Access']"
+481,355840,Survarium,Vostok Games,Vostok Games,0,2000000,"['Action', 'Free to Play', 'Massively Multiplayer', 'RPG', 'Early Access']"
+482,356190,Middle-earth: Shadow of War,Monolith Productions,WB Games,0,2000000,"['Action', 'Adventure', 'RPG']"
+483,356670,Spooky's Jump Scare Mansion,Lag Studios,Lag Studios,0,1000000,"['Action', 'Adventure', 'Free to Play', 'Indie', 'in Early Access']"
+487,359050,Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad,marbenx,marbenx,0,200000,"['Action', 'Indie', 'Simulation']"
+489,359550,Tom Clancy's Rainbow Six Siege,Ubisoft Montreal,Ubisoft,0,20000000,['Action']
+490,359870,FINAL FANTASY X/X-2 HD Remaster,Square Enix,Square Enix,0,500000,['RPG']
+493,360940,The Mean Greens - Plastic Warfare,Virtual Basement LLC,Virtual Basement LLC,0,500000,"['Action', 'Indie']"
+494,361420,ASTRONEER,System Era Softworks,System Era Softworks,0,1000000,"['Adventure', 'Indie']"
+497,362930,Garfield Kart,Artefacts Studio,Microids,0,200000,['Racing']
+499,363970,Clicker Heroes,Playsaurus,Playsaurus,0,5000000,"['Adventure', 'Casual', 'Free to Play', 'Indie', 'RPG', 'Simulation', 'Strategy']"
+501,364470,The Elder Scrolls: Legends,"Sparkypants Studios, LLC",Bethesda Softworks,0,1000000,['Free to Play']
+502,365300,Transmissions: Element 120,Shokunin,Self Published,0,500000,"['Action', 'Free to Play', 'Indie']"
+505,365590,Tom Clancyâ€™s The Division,Massive Entertainment,Ubisoft,0,5000000,"['Action', 'Adventure', 'RPG']"
+509,367580,Hook,Maciej Targoni,Maciej Targoni,0,200000,"['Casual', 'Indie']"
+510,368070,Sniper Ghost Warrior 3,CI Games,CI Games,0,500000,['Action']
+513,368360,60 Seconds!,Robot Gentleman,Robot Gentleman,0,500000,"['Adventure', 'Casual', 'Indie', 'Simulation', 'Strategy']"
+517,372000,Tree of Savior (English Ver.),"IMCGAMES Co.,Ltd.","IMCGAMES Co.,Ltd.",0,2000000,"['Free to Play', 'Massively Multiplayer', 'RPG']"
+521,375230,"Warhammer 40,000: Eternal Crusade",Behaviour Interactive Inc.,Behaviour Interactive Inc.,0,500000,"['Action', 'Adventure', 'Free to Play', 'Massively Multiplayer', 'in Early Access']"
+523,376210,The Isle,Afterthought LLC,Afterthought LLC,0,500000,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'Simulation', 'Early Access']"
+524,376870,Minecraft: Story Mode - A Telltale Games Series,Telltale Games,Telltale Games,0,200000,['Adventure']
+530,380600,Fishing Planet,Fishing Planet LLC,Fishing Planet LLC,0,2000000,"['Free to Play', 'Massively Multiplayer', 'Simulation', 'Sports', 'in Early Access']"
+532,382490,Relic Hunters Zero,Rogue Snail,Akupara Games,0,1000000,"['Action', 'Free to Play', 'Indie']"
+534,383080,Sakura Clicker,Winged Cloud,Winged Cloud,0,1000000,"['Casual', 'Free to Play', 'Indie']"
+535,383120,Empyrion - Galactic Survival,Eleon Game Studios,Eleon Game Studios,0,500000,"['Adventure', 'Indie', 'Simulation', 'Strategy']"
+536,383150,Dead Island Definitive Edition,Techland,Deep Silver,0,500000,['Action']
+538,383980,Rivals of Aether,Dan Fornace,Dan Fornace,0,500000,"['Indie', 'in Early Access']"
+542,385800,NEKOPARA Vol. 0,NEKO WORKs,Sekai Project,0,500000,"['Casual', 'Indie']"
+543,386070,Planetary Annihilation: TITANS,Planetary Annihilation Inc,Planetary Annihilation Inc,0,500000,"['Action', 'Indie', 'Strategy']"
+544,386180,Crossout,Targem Games,Gaijin Distribution KFT,0,2000000,"['Action', 'Free to Play', 'Massively Multiplayer', 'Racing', 'in Early Access']"
+546,386940,Ultimate Chicken Horse,Clever Endeavour Games,Clever Endeavour Games,0,1000000,"['Action', 'Casual', 'Indie']"
+548,387990,Scrap Mechanic,Axolot Games,Axolot Games,0,2000000,"['Action', 'Adventure', 'Indie', 'Simulation', 'Early Access']"
+550,388410,Darksiders II Deathinitive Edition,Gunfire Games,THQ Nordic,0,1000000,"['Action', 'Adventure', 'RPG']"
+552,389570,Mitos.is: The Game,Freakinware Studios,Freakinware Studios,0,2000000,"['Free to Play', 'Simulation']"
+554,39000,Moonbase Alpha,Virtual Heroes,NASA,0,1000000,"['Adventure', 'Simulation', 'Strategy']"
+557,39140,FINAL FANTASY VII,Square Enix,Square Enix,0,1000000,['RPG']
+558,391460,WARMODE,Novalink,Novalink,0,2000000,"['Action', 'Free to Play', 'in Early Access']"
+559,39150,FINAL FANTASY VIII,Square Enix,Square Enix,0,500000,['RPG']
+563,392110,Endless Space 2 - Digital Deluxe Edition,AMPLITUDE Studios,SEGA,0,1000000,"['Strategy', 'in Early Access']"
+564,392160,X4: Foundations,Egosoft,Egosoft,0,200000,"['Action', 'Simulation']"
+565,393380,Squad,Offworld Industries,Offworld Industries,0,1000000,"['Action', 'Indie', 'Strategy', 'Early Access']"
+566,393420,Hurtworld,Bankroll Studios,Bankroll Studios,0,500000,"['Action', 'Adventure', 'Simulation']"
+570,394690,Tower Unite,PixelTail Games,PixelTail Games,0,200000,"['Action', 'Adventure', 'Casual', 'Indie', 'Massively Multiplayer', 'Racing', 'Early Access']"
+575,397900,Business Tour - Board Game with Online Multiplayer,Creobit,8Floor,0,2000000,"['Casual', 'Free to Play', 'Indie', 'Massively Multiplayer', 'Strategy']"
+578,4000,Garry's Mod,Facepunch Studios,Valve,0,20000000,"['Indie', 'Simulation']"
+579,400910,Rabi-Ribi,CreSpirit,CreSpirit,0,"200,000","['Action', 'Adventure', 'Casual', 'Indie']"
+581,402710,Osiris: New Dawn,Fenix Fire Entertainment,Reverb Triple XP,0,500000,"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']"
+584,406150,Refunct,Dominique Grieshofer,Dominique Grieshofer,0,200000,"['Adventure', 'Casual', 'Indie']"
+587,409160,"Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist",Crows Crows Crows,Crows Crows Crows,0,500000,"['Free to Play', 'Indie']"
+590,409720,BioShock 2 Remastered,2K Marin,2K,0,500000,"['Action', 'RPG']"
+603,417860,Emily is Away,Kyle Seeley,Kyle Seeley,0,1000000,"['Adventure', 'Casual', 'Free to Play', 'Indie', 'Simulation']"
+605,418340,RWBY: Grimm Eclipse,Rooster Teeth Games,Rooster Teeth Games,0,500000,"['Action', 'Adventure', 'Indie', 'in Early Access']"
+609,420110,NEKOPARA Vol. 2,NEKO WORKs,Sekai Project,0,500000,"['Casual', 'Indie']"
+610,420290,Blackwake,Mastfire Studios Pty Ltd,Mastfire Studios Pty Ltd,0,200000,"['Action', 'Casual', 'Indie', 'Strategy']"
+614,423880,Carpe Diem,Moonlit Works,Moonlit Works,0,200000,"['Casual', 'Free to Play', 'Indie']"
+615,424280,Iron Snout,SnoutUp,SnoutUp,0,2000000,"['Action', 'Free to Play', 'Indie']"
+618,425580,The Room Two,Fireproof Games,Fireproof Games,0,200000,"['Adventure', 'Indie']"
+621,427520,Factorio,Wube Software LTD.,Wube Software LTD.,0,2000000,"['Casual', 'Indie', 'Simulation', 'Strategy']"
+622,427730,Who's Your Daddy,Evil Tortilla Games,Evil Tortilla Games,0,1000000,"['Action', 'Casual', 'Indie', 'in Early Access']"
+624,428690,Youtubers Life,U-Play Online,U-Play Online,0,500000,"['Indie', 'Simulation', 'Strategy', 'in Early Access']"
+628,430960,Lucy -The Eternity She Wished For-,Modern Visual Arts Laboratory,Modern Visual Arts Laboratory,0,"200,000","['Adventure', 'Casual', 'Indie', 'Simulation']"
+629,431240,Golf With Your Friends,Blacklight Interactive,Team17 Digital Ltd,0,1000000,"['Casual', 'Indie', 'Sports', 'in Early Access']"
+632,434570,Blood and Bacon,Big Corporation,Grunge Games LTD,0,500000,"['Action', 'Adventure', 'Casual']"
+633,434650,Lost Castle / å¤±è½åŸŽå ¡,Hunter Studio,Another Indie,0,1000000,"['Action', 'Adventure', 'Indie', 'RPG', 'in Early Access']"
+636,437220,The Culling,Xaviant,Xaviant Games,0,500000,"['Action', 'Free to Play', 'Indie', 'in Early Access']"
+638,438040,Shakes and Fidget,Playa Games GmbH,Playa Games GmbH,0,1000000,"['Adventure', 'Casual', 'Free to Play', 'Indie', 'Massively Multiplayer', 'RPG', 'Strategy']"
+639,438100,VRChat,VRChat Inc.,VRChat Inc.,0,5000000,"['Adventure', 'Casual', 'Free to Play', 'Massively Multiplayer', 'Simulation', 'Sports', 'Early Access']"
+643,442080,Riders of Icarus,WeMade,VALOFE,0,1000000,"['Adventure', 'Free to Play', 'Massively Multiplayer', 'RPG']"
+645,443810,This Is the Police,Weappy Studio,THQ Nordic,0,500000,"['Adventure', 'Indie', 'Strategy']"
+647,444200,World of Tanks Blitz,Wargaming Group Limited,Wargaming Group Limited,0,5000000,"['Action', 'Free to Play', 'Massively Multiplayer']"
+648,444640,Bloons TD Battles,Ninja Kiwi,Ninja Kiwi,0,1000000,"['Action', 'Free to Play', 'Strategy']"
+649,445220,Avorion,Boxelware,Boxelware,0,200000,"['Action', 'Indie', 'Simulation']"
+653,447040,Watch_Dogs 2,Ubisoft,Ubisoft,0,1000000,"['Action', 'Adventure']"
+659,450540,"Hot Dogs, Horseshoes & Hand Grenades",RUST LTD.,RUST LTD.,0,200000,"['Action', 'Indie', 'Simulation', 'Early Access']"
+660,453480,Shadowverse CCG,"Cygames, Inc.","Cygames, Inc.",0,1000000,"['Free to Play', 'Strategy']"
+661,454650,DRAGON BALL XENOVERSE 2,QLOC,BANDAI NAMCO Entertainment,0,500000,"['Action', 'Adventure', 'Casual', 'Massively Multiplayer']"
+663,45760,Ultra Street Fighter IV,Capcom,Capcom,0,500000,['Action']
+664,459820,Crush Crush,Sad Panda Studios,Sad Panda Studios,0,500000,"['Casual', 'Free to Play', 'Indie', 'in Early Access']"
+667,460930,Tom Clancy's Ghost Recon Wildlands,Ubisoft Paris,Ubisoft,0,1000000,"['Action', 'Adventure']"
+669,462780,Darksiders Warmastered Edition,KAIKO,THQ Nordic,0,1000000,"['Action', 'Adventure', 'RPG']"
+672,466240,Deceit,Baseline,Baseline,0,5000000,"['Action', 'Free to Play', 'Indie', 'in Early Access']"
+675,4700,Total War: MEDIEVAL II â€“ Definitive Edition,CREATIVE ASSEMBLY,SEGA,0,2000000,['Strategy']
+676,470220,UNO,Ubisoft Entertainment,Ubisoft Entertainment,0,1000000,['Casual']
+677,471710,Rec Room,Rec Room,Rec Room,0,1000000,"['Action', 'Adventure', 'Casual', 'Free to Play', 'Massively Multiplayer', 'Sports', 'Early Access']"
+680,475150,Titan Quest Anniversary Edition,Iron Lore Entertainment,THQ Nordic,0,2000000,"['Action', 'RPG']"
+683,476600,Call of Duty: WWII,Sledgehammer Games,Activision,0,500000,['Action']
+690,480490,Prey,Arkane Studios,Bethesda Softworks,0,1000000,"['Action', 'Adventure']"
+698,488790,South Park: The Fractured But Whole,Ubisoft San Francisco,Ubisoft,0,200000,['RPG']
+699,489520,Minion Masters,BetaDwarf,BetaDwarf,0,2000000,"['Action', 'Adventure', 'Free to Play', 'Indie', 'RPG', 'Strategy', 'in Early Access']"
+701,489940,BATTALION 1944,Bulkhead Interactive,Square Enix,0,500000,"['Action', 'Massively Multiplayer', 'in Early Access']"
+706,493520,GTFO,10 Chambers Collective,10 Chambers Collective,0,200000,"['Action', 'Early Access']"
+710,495890,Montaro,JCKSLAP,MBDL,0,200000,"['Casual', 'Indie']"
+712,496300,Kingdom: New Lands,Noio,Raw Fury,0,500000,"['Indie', 'Simulation', 'Strategy']"
+713,498240,Batman - The Telltale Series,"LCG Entertainment, Inc.","Athlon Games, Inc.",0,500000,['Adventure']
+714,50,Half-Life: Opposing Force,Gearbox Software,Valve,0,5000000,['Action']
+718,502500,ACE COMBAT 7: SKIES UNKNOWN,BANDAI NAMCO Studios Inc.,BANDAI NAMCO Entertainment,0,500000,"['Action', 'Simulation']"
+723,505460,Foxhole,Clapfoot,Clapfoot,0,500000,"['Action', 'Indie', 'Massively Multiplayer', 'RPG', 'Strategy', 'Early Access']"
+725,506540,Last Man Standing,Free Reign Entertainment,Free Reign Entertainment,0,2000000,"['Action', 'Adventure', 'Free to Play', 'Indie', 'Massively Multiplayer', 'Strategy', 'in Early Access']"
+726,508440,Totally Accurate Battle Simulator,Landfall,Landfall,0,2000000,"['Indie', 'Simulation', 'Strategy', 'Early Access']"
+727,512900,Streets of Rogue,Matt Dabrowski,tinyBuild,0,500000,"['Action', 'Adventure', 'Indie', 'RPG']"
+728,513650,Zula Europe,Madbyte Games,IDC/Games,0,500000,"['Action', 'Free to Play', 'Massively Multiplayer']"
+729,513710,SCUM,Gamepires,Gamepires,0,1000000,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'Early Access']"
+730,516750,My Summer Car,Amistech Games,Amistech Games,0,500000,"['Indie', 'Racing', 'Simulation', 'Early Access']"
+732,518790,theHunter: Call of the Wild,Expansive Worlds,Expansive Worlds,0,1000000,"['Adventure', 'Simulation', 'Sports']"
+733,519190,Next Day: Survival,SOFF Games,Last Level,0,"200,000","['Action', 'Indie', 'RPG']"
+736,526870,Satisfactory,Coffee Stain Studios,Coffee Stain Publishing,0,500000,"['Adventure', 'Indie', 'Simulation', 'Strategy', 'Early Access']"
+739,531510,Just Shapes & Beats,Berzerk Studio,Berzerk Studio,0,200000,"['Action', 'Indie']"
+740,532210,Life is Strange 2,DONTNOD Entertainment,Square Enix,0,200000,['Adventure']
+741,533300,Zup!,Quiet River,Quiet River,0,200000,"['Casual', 'Indie']"
+751,550650,Black Squad,NS STUDIO,NS STUDIO,0,10000000000,"['Action', 'Free to Play', 'in Early Access']"
+752,550900,Metin2,WEBZEN Inc.,Gameforge 4D GmbH,0,1000000,"['Action', 'Adventure', 'Free to Play', 'Massively Multiplayer', 'RPG']"
+755,552100,Brick Rigs,Lukas Rustemeyer,Lukas Rustemeyer,0,500000,"['Simulation', 'Early Access']"
+758,552520,Far Cry 5,Ubisoft Montreal,Ubisoft,0,2000000,"['Action', 'Adventure']"
+762,555160,Pavlov VR,Vankrupt Games,Vankrupt Games,0,500000,"['Action', 'Indie', 'Early Access']"
+764,555570,Infestation: The New Z,Fredaikis AB,OP Productions LLC,0,5000000,"['Action', 'Free to Play', 'Indie', 'Massively Multiplayer', 'RPG']"
+768,563560,Alien Swarm: Reactive Drop,Reactive Drop Team,Reactive Drop Team,0,2000000,"['Action', 'Free to Play']"
+770,568220,Lobotomy Corporation | Monster Management Simulation,ProjectMoon,ProjectMoon,0,200000,"['Indie', 'Simulation', 'in Early Access']"
+771,569480,Kingdoms and Castles,"Lion Shield, LLC","Lion Shield, LLC",0,1000000,"['Indie', 'Simulation', 'Strategy']"
+773,570940,DARK SOULS: REMASTERED,QLOC,"FromSoftware, Inc",0,500000,['Action']
+774,571740,Golf It!,Perfuse Entertainment,Perfuse Entertainment,0,500000,"['Casual', 'Indie', 'Simulation', 'Sports', 'Early Access']"
+776,573090,Stormworks: Build and Rescue,Sunfire Software,Sunfire Software,0,500000,"['Simulation', 'Early Access']"
+779,578310,BRAIN / OUT,Desertkun,Desertkun,0,1000000,"['Action', 'Free to Play', 'Indie', 'Massively Multiplayer']"
+782,582160,Assassin's Creed Origins,Ubisoft Montreal,Ubisoft,0,2000000,"['Action', 'Adventure', 'RPG']"
+783,582500,We Were Here,Total Mayhem Games,Total Mayhem Games,0,1000000,"['Action', 'Adventure', 'Free to Play', 'Indie']"
+789,589290,Holdfast: Nations At War,Anvil Game Studios,Anvil Game Studios,0,200000,"['Action', 'Indie', 'Massively Multiplayer', 'Simulation', 'Strategy']"
+793,597170,Clone Drone in the Danger Zone,Doborog Games,Doborog Games,0,200000,"['Action', 'Indie', 'Early Access']"
+798,601510,Yu-Gi-Oh! Duel Links,Konami Digital Entertainment,Konami Digital Entertainment,0,2000000,"['Free to Play', 'Strategy']"
+800,602520,NEKOPARA Vol. 3,NEKO WORKs,Sekai Project,0,200000,"['Sexual Content', 'Nudity', 'Casual', 'Indie']"
+801,603850,Age of Civilizations II,Aukasz Jakowski,Aukasz Jakowski Games,0,500000,['Strategy']
+807,611500,Quake Champions,id Software,Bethesda Softworks,0,1000000,"['Action', 'Free to Play', 'Early Access']"
+808,611790,House Party,"Eek! Games, LLC","Eek! Games, LLC",0,200000,"['Adventure', 'Casual', 'Indie', 'Simulation', 'Early Access']"
+814,621060,PC Building Simulator,Claudiu Kiss,The Irregular Corporation,0,1000000,"['Indie', 'Simulation']"
+815,622650,Bendy and the Ink Machine,Joey Drew Studios,Joey Drew Studios,0,500000,"['Action', 'Adventure', 'Free to Play', 'Indie', 'Strategy']"
+816,625960,Stoneshard,Ink Stains Games,HypeTrain Digital,0,500000,"['Adventure', 'Indie', 'RPG', 'Strategy', 'Early Access']"
+819,629730,Blade and Sorcery,WarpFrog,WarpFrog,0,500000,"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation', 'Early Access']"
+822,630100,SoulWorker - Anime Action MMO,"Lion Games Co., Ltd.",Gameforge 4D GmbH,0,1000000,"['Action', 'Free to Play', 'Massively Multiplayer', 'RPG']"
+827,635260,CarX Drift Racing Online,"CarX Technologies, LLC","CarX Technologies, LLC",0,200000,"['Massively Multiplayer', 'Racing', 'Simulation', 'Sports', 'in Early Access']"
+828,636480,Ravenfield,SteelRaven7,SteelRaven7,0,1000000,"['Action', 'Indie', 'Early Access']"
+830,637650,FINAL FANTASY XV WINDOWS EDITION,Square Enix,Square Enix,0,1000000,['RPG']
+831,638230,Journey,thatgamecompany,Annapurna Interactive,0,"200,000","['Adventure', 'Indie']"
+833,639790,DEEP SPACE WAIFU,Neko Climax Studios,Neko Climax Studios,0,200000,"['Action', 'Casual', 'Indie']"
+837,644560,Mirror,KAGAMI WORKs,Paradise Project,0,1000000,"['Adventure', 'Indie', 'RPG', 'in Early Access']"
+838,644570,Material Girl,Dieselmine,Paradise Project,0,200000,"['Adventure', 'Indie', 'RPG']"
+840,645630,Car Mechanic Simulator 2018,Red Dot Games,PlayWay S.A.,0,1000000,"['Racing', 'Simulation']"
+842,646910,The Crew 2,Ivory Tower,Ubisoft,0,1000000,"['Action', 'Massively Multiplayer', 'Racing']"
+844,648800,Raft,Redbeet Interactive,Axolot Games,0,2000000,"['Adventure', 'Indie', 'Simulation', 'Early Access']"
+845,652980,Loading Screen Simulator,CakeEaterGames,CakeEaterGames,0,500000,"['Casual', 'Free to Play', 'Indie', 'Simulation']"
+847,657200,Hand Simulator,HFM Games,HFM Games,0,1000000,['Simulation']
+852,666220,CS2D,Unreal Software,Unreal Software,0,1000000,"['Action', 'Casual', 'Free to Play', 'Indie']"
+853,668630,Tricolour Lovestory,HL-Galgame,SakuraGame,0,500000,"['Adventure', 'Casual', 'Indie']"
+855,673950,Farm Together,Milkstone Studios,Milkstone Studios,0,500000,"['Casual', 'Indie', 'Simulation', 'in Early Access']"
+856,674020,World War 3,The Farm 51,The Farm 51,0,500000,"['Action', 'Indie', 'Early Access']"
+857,674940,Stick Fight: The Game,Landfall West,Landfall,0,2000000,"['Action', 'Casual', 'Indie']"
+858,675010,MudRunner,Saber Interactive,Focus Home Interactive,0,500000,['Simulation']
+859,677620,Splitgate: Arena Warfare,1047 Games,1047 Games,0,2000000,"['Action', 'Free to Play', 'Indie']"
+864,686810,Hell Let Loose,Black Matter Pty Ltd,Team17 Digital Ltd,0,1000000,"['Action', 'Indie', 'Simulation', 'Strategy', 'Early Access']"
+867,692850,Bloodstained: Ritual of the Night,ArtPlay,505 Games,0,500000,"['Action', 'Adventure', 'RPG']"
+868,698780,Doki Doki Literature Club!,Team Salvato,Team Salvato,0,2000000,"['Casual', 'Free to Play', 'Indie']"
+871,700330,SCP: Secret Laboratory,Northwood Studios,Northwood Studios,0,5000000,"['Action', 'Free to Play']"
+874,704270,Generation Zero,Systemic Reaction,Systemic Reaction,0,200000,"['Action', 'Adventure']"
+875,704850,Thief Simulator,Noble Muffins,PlayWay S.A.,0,500000,"['Action', 'Adventure', 'Indie', 'Simulation']"
+877,706990,BLOCKPOST,Skullcap Studios,Skullcap Studios,0,1000000,"['Action', 'Free to Play', 'Indie']"
+878,712100,Total War Saga: THRONES OF BRITANNIA,CREATIVE ASSEMBLY,SEGA,0,200000,"['Action', 'Strategy']"
+880,714010,Aim Lab,Statespace,Statespace,0,1000000,"['Action', 'Adventure', 'Casual', 'Free to Play', 'Indie', 'Simulation', 'Early Access']"
+883,729040,Borderlands Game of the Year Enhanced,Gearbox Software,2K,0,1000000,"['Action', 'RPG']"
+885,731490,Crash Bandicoot N. Sane Trilogy,Vicarious Visions,Activision,0,200000,['Action']
+886,732430,Superflight,GrizzlyGames,GrizzlyGames,0,200000,"['Action', 'Casual', 'Indie', 'Racing', 'Sports']"
+887,736190,Chinese Parents,China,China,0,1000000,"['Casual', 'Indie', 'RPG', 'Simulation', 'in Early Access']"
+888,736220,Post Scriptum,Periscope Games,Offworld Industries,0,200000,"['Action', 'Indie', 'Massively Multiplayer', 'Simulation', 'Strategy']"
+891,738060,Freddy Fazbear's Pizzeria Simulator,Scott Cawthon,Scott Cawthon,0,1000000,"['Free to Play', 'Indie', 'Simulation']"
+892,742120,DRAGON QUEST XI: Echoes of an Elusive Age - Digital Edition of Light,Square Enix,Square Enix,0,200000,['RPG']
+894,744900,Dead Frontier 2,Creaky Corpse Ltd,Creaky Corpse Ltd,0,2000000,"['Action', 'Free to Play', 'Indie', 'Massively Multiplayer', 'RPG']"
+895,745920,Temtem,Crema,Humble Games,0,500000,"['Adventure', 'Indie', 'Massively Multiplayer', 'RPG', 'Early Access']"
+900,755790,Ring of Elysium,Aurora Studio,TCH Scarlet Limited,0,10000000000,"['Action', 'Free to Play', 'Massively Multiplayer']"
+903,766570,Russian Fishing 4,Russian Fishing,Russian Fishing,0,2000000,"['Adventure', 'Casual', 'Free to Play', 'Massively Multiplayer', 'RPG', 'Simulation', 'Sports', 'Early Access']"
+905,773951,Freeman: Guerrilla Warfare,KK Game Studios,KK Softworks,0,500000,"['Action', 'Indie', 'RPG', 'Strategy', 'in Early Access']"
+906,774171,Muse Dash,PeroPeroGames,X.D. Network Inc.,0,500000,"['Action', 'Casual', 'Indie']"
+908,774861,Project Winter,Other Ocean Interactive,Other Ocean Group,0,500000,"['Action', 'Adventure', 'Casual', 'Indie', 'Strategy', 'in Early Access']"
+917,809960,Radical Heights,Boss Key Productions,Boss Key Productions,0,1000000,"['Action', 'Adventure', 'Free to Play', 'Indie', 'Massively Multiplayer', 'Early Access']"
+918,812140,Assassin's Creed Odyssey,Ubisoft Quebec,Ubisoft,0,2000000,"['Action', 'Adventure', 'RPG']"
+919,812810,missed messages.,Angela He,Angela He,0,200000,"['Casual', 'Free to Play', 'Indie', 'Simulation']"
+922,813820,Realm Royale,Heroic Leap Games,Hi-Rez Studios,0,5000000,"['Action', 'Free to Play', 'Early Access']"
+926,823130,Totally Accurate Battlegrounds,Landfall,Landfall,0,1000000,"['Action', 'Indie']"
+928,824270,KovaaK 2.0,The Meta,The Meta,0,500000,"['Action', 'Indie', 'Simulation']"
+929,834910,ATLAS,Grapeshot Games,Grapeshot Games,0,1000000,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Early Access', 'in Early Access']"
+931,838350,The Scroll Of Taiwu,ConchShip Games,ConchShip Games,0,2000000,"['Adventure', 'Casual', 'Indie', 'RPG', 'Strategy', 'Early Access']"
+933,843380,Super Animal Royale,Pixile,Pixile,0,"200,000","['Action', 'Adventure', 'Casual', 'Indie', 'Massively Multiplayer', 'Early Access']"
+934,844870,KurtzPel,KOG,KOG,0,2000000,"['Action', 'Free to Play', 'Early Access']"
+936,848450,Subnautica: Below Zero,Unknown Worlds Entertainment,Unknown Worlds Entertainment,0,500000,"['Adventure', 'Indie', 'Early Access']"
+938,851100,Touhou Luna Nights,Vaka Game Magazine,Why so serious?,0,200000,"['Action', 'Adventure', 'Indie', 'in Early Access']"
+940,858810,Dawn of Man,Madruga Works,Madruga Works,0,200000,"['Indie', 'Simulation', 'Strategy']"
+941,859570,Secret Neighbor,Hologryph,tinyBuild,0,200000,"['Action', 'Adventure', 'Indie']"
+944,866800,The Walking Dead: The Final Season,Telltale Games,Skybound Games,0,500000,['Adventure']
+945,871720,Ultimate Custom Night,Scott Cawthon,Scott Cawthon,0,1000000,"['Action', 'Free to Play', 'Indie']"
+947,878750,Hentai Girl,GirlGame,GirlGame,0,200000,"['Casual', 'Indie', 'RPG', 'Simulation']"
+948,880940,Pummel Party,Rebuilt Games,Rebuilt Games,0,1000000,"['Action', 'Casual', 'Indie']"
+949,881100,Noita,Nolla Games,Nolla Games,0,200000,"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']"
+950,882100,XCOM: Chimera Squad,Firaxis Games,2K,0,200000,['Strategy']
+952,884660,Cuisine Royale,Darkflow Software,Gaijin Distribution KFT,0,2000000,"['Action', 'Free to Play', 'Massively Multiplayer', 'in Early Access']"
+956,893520,Creative Destruction,NetEase Games,NetEase Games,0,1000000,"['Action', 'Adventure', 'Casual', 'Massively Multiplayer']"
+957,895400,Deadside,Bad Pixel,Bad Pixel,0,500000,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'Early Access']"
+960,903950,Last Oasis,Donkey Crew,Donkey Crew,0,500000,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG', 'Early Access']"
+961,905370,Conqueror's Blade,Booming Games,MY.GAMES,0,2000000,"['Action', 'Free to Play', 'Massively Multiplayer', 'Strategy']"
+965,939960,Far Cry New Dawn,Ubisoft Montreal,Ubisoft,0,1000000,"['Action', 'Adventure']"
+970,9450,"Warhammer 40,000: Dawn of War - Soulstorm",Relic Entertainment,SEGA,0,1000000,['Strategy']
+971,945360,Among Us,Innersloth,Innersloth,0,5000000,['Casual']
+973,950670,Gothic Playable Teaser,THQ Nordic Barcelona,THQ Nordic,0,500000,['RPG']
+976,955050,Bright Memory,FYQD-Studio,FYQD-Studio,0,500000,"['Action', 'Adventure', 'Indie', 'in Early Access']"
+977,955900,Amazing Cultivation Simulator,GSQ Games,Gamera Game,0,500000,"['Indie', 'RPG', 'Simulation', 'Strategy', 'Early Access']"
+979,960090,Bloons TD 6,Ninja Kiwi,Ninja Kiwi,0,1000000,['Strategy']
+980,960170,DJMAX RESPECT V,NEOWIZ,NEOWIZ,0,200000,"['Action', 'Casual', 'Sports', 'in Early Access']"
+981,96100,Defy Gravity Extended,Paul Fisch,Fish Factory Games,0,1000000,"['Action', 'Casual', 'Indie']"
+982,962130,Grounded,Obsidian Entertainment,Xbox Game Studios,0,200000,"['Action', 'Adventure', 'Early Access']"
+984,967050,Pacify,Shawn Hitchcock,Hitchcock Games,0,500000,"['Action', 'Adventure', 'Casual', 'Indie', 'Strategy']"
+985,969990,SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated,Purple Lamp Studios,THQ Nordic,0,"200,000","['Action', 'Adventure', 'Casual']"
+988,976730,Halo: The Master Chief Collection,343 Industries,Xbox Game Studios,0,2000000,['Action']
+989,977950,A Dance of Fire and Ice,7th Beat Games,7th Beat Games,0,200000,['Indie']
+992,991780,Russia ,Russian  ,Russian  ,0,500000,"['Action', 'Adventure', 'Casual', 'Indie', 'Massively Multiplayer', 'Racing', 'RPG', 'Strategy', 'Early Access', 'in Early Access']"
+993,992300,Bloody Spell,NA,NA,0,500000,"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']"
+994,994280,Gujian3,Japan,Japan,0,500000,['RPG']
+995,996470,eFootball PES 2020,Konami Digital Entertainment,Konami Digital Entertainment,0,500000,['Sports']
+996,996580,Spyro Reignited Trilogy,Toys for Bob,Activision,0,200000,"['Action', 'Adventure']"

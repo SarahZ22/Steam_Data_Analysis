@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 
+<!-- Bootstrap & Style Links --> 
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="Assets/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="Assets/style.css">
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src='https://kit.fontawesome.com/a076d05399.js'></script>
+    <script src="https://d3js.org/d3.v4.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+    
+
+<!-- Page Title -->
+    <title>Users</title>
+    
+<!-- Create the navigation bar at the top -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary" id="navibar" style='background-color:black !important'>
+    <strong><a class="navbar-brand" href="index.html">Steam Data <i class='fab fa-steam' style='font-size:24px;color:white'></i> Home</a></strong>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" aria-expanded="false"></button>
+    <div class="navbar navbar-collapse">
+        <ul class="nav navbar-nav mr-auto mt-2 mt-lg-0">
+            <li class="nav-item">
+                <a class="nav-link" id="navlink" href="recommendations.html">
+                    <i class="fas fa-gamepad" style='color:lime'></i>
+                Game Recommendations</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="navlink" href="machine_learning.html">
+                    <i class="fas fa-laptop-code" style='color:lime'></i>
+                Machine Learning Model</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="navlink" href="visuals.html">
+                    <i class="fas fa-chart-area" style='color:lime'></i>   
+                Visualizations</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" id="navlink" href="user_base.html">
+                <i class="fas fa-user-alt" style='color:lime'></i>
+            Steam User Base</a>
+            </li>
+        </ul>
+    </div>
+    <a class="nav-text">Steam Data Analysis Web Visualization Dashboard <i class="fab fa-steam-symbol"></i></a>
+</nav>
+</head>
+
+<body>
+    
+    
+    <div class="container-fluid" id="world">
+        <div class="row">
+              <div class="col-md-12">
+                  <div class="expand">
+                  <br>
+                  <script> 
+                  $(document).ready(function(){
+                  $("#flip").click(function(){
+                  $("#panel").slideToggle("slow");
+                    });
+                  });
+                  </script>
+                  <style> 
+                  #panel, #flip {
+                    padding: 5px;
+                    text-align: center;
+                    background-color: #145385;
+                    border: solid 1px #c3c3c3;
+                  }
+                  #panel {
+                    padding: 50px;
+                    display: none;
+                  }
+    
+                  <div class="container-fluid">
+                  <div class="row">
+                  <div class="col-md-12">
+                  <div class="expand">
+                  <br>
+                  <script> 
+                  $(document).ready(function(){
+                  $("#flip").click(function(){
+                  $("#panel").slideToggle("slow");
+                    });
+                  });
+                  </script>
+                  <style> 
+                  #panel, #flip {
+                    padding: 5px;
+                    text-align: center;
+                    background-color: #edf2f4;
+                    border: solid 1px #c3c3c3;
+                  }
+                  #panel {
+                    padding: 50px;
+                    display: none;
+                  }
+                  </style>
+                  </div>
+                  <div id="flip" style="background-color:#edf2f4"><h1 style="color: #800000;">Steam Users</h1><br>Click here for more information>
+                    <br>
+                    <br>
+                  <div id="panel"> 
+                    <div class="row">
+                        <div class="col-12 col-md-6">
+                    <p style='color:lime'> This Choropleth Map shows a good representation of where the most Steam games are purchased worldwide. As you can see the United States purchases exponentially more games than the rest of the world. The next biggest Steam gamer countries in the world are China followed by Germany. The majority of countries buy less than 400K games with only a handful buying exponentially more.  </p>
+                    <p style='color:lime'> The graph below the maps compares the game ownership from Steam across different countries. The top 5 countries with the highest ownership were the United States, China, Germany, Russia, and South Korea. It was interesting to see how my higher game ownership in the United States, which had 1,390,626 games owned. It was interesting to not find Japan in the top 5 countries because Japan is home to large video game companies such as Nintendo, Sega, and Capcom. This may be because Japan has a lot of console gaming and Steam is a PC gaming marketplace. </p>
+                    </div>
+                    <div class="col-12 col-md-6">
+                    <p style='color:lime'> This Choropleth Map of the United States shows a good representation of where the most Steam games are purchased within the US. California, Texas, Pennsylvania and Florida are the top states for Steam game purchases. Calfornia is the top Steam buyer, with almost 100K more games purchased than the next most active state. The majority of the US seems to be in the 100-200K range for number of Steam games sold. </p> 
+                    <p style='color:lime'> The graph below the maps compares the game ownership across the different U.S. states. It was found that California, Texas, New York, Florida, and Pennsylvania were the top 5 states with the highest game ownership. It was interesting that California had the highest game ownership by significant amount compared to the other states, with a game ownership of over 500,000 games owned on steam. California has the highest population in the U.S. and is home to Comic-Con and many gaming conventions so these are possible variables that may influence this large game ownership. </p>
+                    </div>
+                    </div>
+                  </div>  
+                  <div class="container-fluid"> 
+                    <div class="row">
+                        <div class="col-6">   
+                            <div id='worldmap'></div>
+                        </div>
+                        <div class="col-6">   
+                            <div id='usmap'></div>
+                        </div>
+                    </div>
+                </div>   
+          <p class="font-size-lg mb-7" style="color: #145385">
+            Note: White countries have no data/steam presence - Data scraped from GameDB</p>
+        <br>
+        <div class="container-fluid" id="charts"> 
+            <div class="row">
+                <div class="col-6">   
+                    <p class="font-size-lg mb-7" style="color: #145385"> Lollipop Chart of Total Games Owned per Country</p>
+                    <img src="Images/Lolligamespercountry.JPG" alt="gamespercountry">
+                </div>
+                <div class="col-6"> 
+                    <p class="font-size-lg mb-7" style="color: #145385"> Lollipop Chart of Total Games Owned per US State</p>  
+                    <img src="Images/Lolligamesperstate.JPG" alt="gamespercountry">
+                </div>
+            </div>
+        </div> 
+     </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src='state_bubble.js'></script>
+    <script src='country_bubble.js'></script>
+    <script src="choro_maps.js"></script>
+    <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+
+</body>
+
+<!-- Footer -->
+<footer>
+    <br>
+    <div class="footer">Copyright 2020 &copy; DU Bootcamp Project 2 Group (Madison, Sarah, Kevin, Andrew, Solongo, Robin) </div>
+</footer>
+
+</html>

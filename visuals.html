@@ -1,0 +1,190 @@
+  
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+ <!-- Bootstrap & Style Links -->   
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="Assets/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="Assets/style.css">
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src='https://kit.fontawesome.com/a076d05399.js'></script>
+    <script src="https://d3js.org/d3.v4.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+
+<!-- Page Title -->
+    <title>Visualizations</title>
+
+<!-- Create the navigation bar at the top -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary" id="navibar" style='background-color:black !important'>
+    <strong><a class="navbar-brand" href="index.html">Steam Data <i class='fab fa-steam' style='font-size:24px;color:white'></i> Home</a></strong>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" aria-expanded="false"></button>
+    <div class="navbar navbar-collapse">
+        <ul class="nav navbar-nav mr-auto mt-2 mt-lg-0">
+            <li class="nav-item">
+                <a class="nav-link" id="navlink" href="recommendations.html">
+                    <i class="fas fa-gamepad" style='color:lime'></i>
+                Game Recommendations</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="navlink" href="machine_learning.html">
+                    <i class="fas fa-laptop-code" style='color:lime'></i>
+                Machine Learning Model</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="navlink" href="visuals.html">
+                    <i class="fas fa-chart-area" style='color:lime'></i>   
+                Visualizations</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" id="navlink" href="user_base.html">
+                <i class="fas fa-user-alt" style='color:lime'></i>
+            Steam User Base</a>
+            </li>
+        </ul>
+    </div>
+    <a class="nav-text">Steam Data Analysis Web Visualization Dashboard <i class="fab fa-steam-symbol"></i></a>
+</nav>
+</head>
+
+<body>
+<div class="container-fluid" id="states">
+    <div class="row">
+          <div class="col-md-12">
+              <div class="expand">
+              <br>
+              <script> 
+              $(document).ready(function(){
+              $("#flip").click(function(){
+              $("#panel").slideToggle("slow");
+                });
+              });
+              </script>
+              <style> 
+              #panel, #flip {
+                padding: 5px;
+                text-align: center;
+                background-color: #145385;
+                border: solid 1px #c3c3c3;
+              }
+              #panel {
+                padding: 50px;
+                display: none;
+              }
+
+              <div class="container-fluid">
+              <div class="row">
+              <div class="col-md-12">
+              <div class="expand">
+              <br>
+              <script> 
+              $(document).ready(function(){
+              $("#flip").click(function(){
+              $("#panel").slideToggle("slow");
+                });
+              });
+              </script>
+              <style> 
+              #panel, #flip {
+                padding: 5px;
+                text-align: center;
+                background-color: #edf2f4;
+                border: solid 1px #c3c3c3;
+              }
+              #panel {
+                padding: 50px;
+                display: none;
+              }
+              </style>
+              </div>
+              <div id="flip" style="background-color:#edf2f4"><h1 style="color: #800000;">Dataset Visualizations</h1><br>Click here for more information
+              <div id="panel"> <p style='color:lime'>Various visualizations have been created using our database using Tableau and Pandas. Data was scraped/retrieved from SteamSpy and SteamDB. These visualizations were created to explore our data in a way that makes it easy to understand. These visuals compare owners, metascore, game genres, game tags and prices in various charts and visual formats. We are able to add the interactive visualizations directly to this page from Tableau.</p> <br>
+    <p><a href="https://public.tableau.com/profile/robin.bun#!/vizhome/final_project_16058429925040/Sheet1"><h3 style="color: #800000;">Click for Link to Public Tableau where images were created</h3></a></p>
+              </div>
+
+    <div class="container-fluid"> 
+        <div class="row">
+            <div class="col-7"> 
+                <br>  
+                <p style="color: #800000;">Bar Chart showing the Average Price per Game</p>
+                <div class='tableauPlaceholder' id='viz1606274738066' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;final_project_16058429925040&#47;Sheet5&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='final_project_16058429925040&#47;Sheet5' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;final_project_16058429925040&#47;Sheet5&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1606274738066');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+            </div>
+            <div class="col-5"> 
+                <br>  
+                <p style="color: #800000;">Word cloud showing all genres associated with steam games</p> 
+                <div class='tableauPlaceholder' id='viz1606275795582' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;final_project_16058429925040&#47;Sheet3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='final_project_16058429925040&#47;Sheet3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;final_project_16058429925040&#47;Sheet3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1606275795582');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-6">  
+                <br>  
+                <p style="color: #800000;">Bubble plot showing owners per game genre. </p> 
+                <div class='tableauPlaceholder' id='viz1606275540223' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;final_project_16058429925040&#47;Sheet7&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='final_project_16058429925040&#47;Sheet7' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;final_project_16058429925040&#47;Sheet7&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1606275540223');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+            </div>
+            <div class="col-6"> 
+                <br>  
+                <p style="color: #800000;">Bar chart showing metascore per video game genre</p>
+                <div class='tableauPlaceholder' id='viz1606275764156' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;final_project_16058429925040&#47;Sheet10&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='final_project_16058429925040&#47;Sheet10' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;final_project_16058429925040&#47;Sheet10&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1606275764156');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-6"> 
+                <br>  
+                <p style="color: #800000;">Two visualizations which both show the average game price per genre</p>
+                <div class='tableauPlaceholder' id='viz1606275604152' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;final_project_16058429925040&#47;Sheet6&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='final_project_16058429925040&#47;Sheet6' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;final_project_16058429925040&#47;Sheet6&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1606275604152');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+            </div>
+            <div class="col-6">  
+                <br>  
+                <p style="color: #800000;">Sports, Simulation and Early Access are the most expensive genres</p> 
+                <div class='tableauPlaceholder' id='viz1606275661919' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;final_project_16058429925040&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='final_project_16058429925040&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;final_project_16058429925040&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1606275661919');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+            </div>
+            
+        </div>
+        <div class="row">
+            <div class="col-6"> 
+                <br>  
+                <p style="color: #800000;">A word cloud showing all the different tags steam games are linked with</p>
+                <div class='tableauPlaceholder' id='viz1606275705137' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;final_project_16058429925040&#47;Sheet4&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='final_project_16058429925040&#47;Sheet4' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;final_project_16058429925040&#47;Sheet4&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1606275705137');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+            </div>
+            <div class="col-6">  
+                <br>  
+                <p style="color: #800000;">Tree map exploring the average price of a game based on its tags</p> 
+                <div class='tableauPlaceholder' id='viz1606275740193' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;final_project_16058429925040&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='final_project_16058429925040&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;final_project_16058429925040&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1606275740193');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-6"> 
+                <br>  
+                <p style="color: #800000;">This heat map shows the metascore of specific game genres</p>
+                <img src="Images/heatmap_1.jpg" alt="heat1" width="820">
+            </div>
+            <div class="col-6">  
+                <br>  
+                <p style="color: #800000;">This heat map shows the metascore of specific game tags</p> 
+                <img src="Images/heatmap_2.jpg" alt="heat2" width="920">
+            </div>
+        </div>    
+</div>
+</div>
+
+    <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+    <script src='scatter.js'></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+
+</body>
+
+<!-- Footer -->
+<footer>
+    <br>
+    <div class="footer">Copyright 2020 &copy; DU Bootcamp Project 2 Group (Madison, Sarah, Kevin, Andrew, Solongo, Robin) </div>
+</footer>
+
+</html>
