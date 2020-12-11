@@ -23,7 +23,8 @@ We have defined a game as a hit based off when the game ownership is over the me
 -https://steamspy.com/ \
 -https://steamdb.info/
 
-The following data was scraped from our data sources: metascores, game price, Steam ID, game name, developer, publisher, genre, and number of owners, and tags. \
+The following data was scraped from our data sources: metascores, game price, Steam ID, game name, developer, publisher, genre, and number of owners, and tags. 
+
 To clean the data, we split the genres, tags, and the owners to minimum and maximum owners. The NaN values were removed.
 The cleaned data was place into a SQL and SQLite database. The data was also used with Tableau to create some visualizations.
 The cleaned data was used to create a machine learning model to predict whether the game would be a hit.
