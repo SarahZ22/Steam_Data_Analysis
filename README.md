@@ -7,7 +7,6 @@ Analysts: Sarah Zachrich, Madison Chamberlain, Kevin Schram, Robin Bun, Andrew M
 Project Site: https://sarahz22.github.io/Final_Project_Steam_Analysis/ \
 Tableau Site: https://public.tableau.com/profile/robin.bun#!/vizhome/final_project_16058429925040/Sheet1 \
 Machine Learning hosted on Heroku: https://videogamebootcampapp.herokuapp.com/ \
-Recommendations hosted on Heroku: 
 
 ### Project Overview:
 This project is a continuation of our previous project: (https://github.com/SarahZ22/Project_2_Data_Visualization)
